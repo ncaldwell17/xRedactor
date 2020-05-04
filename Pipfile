@@ -7,6 +7,11 @@ verify_ssl = true
 
 [packages]
 pdfminer = "*"
+flask = "*"
+python-dotenv = "*"
+werkzeug = "*"
+jupyter = "*"
+requests = "*"
 
 [requires]
 python_version = "3.6"

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% if title %}
+    <title>{{ title}} - Upload</title>
+    {% else %}
+    <title>Upload Files</title>
+    {% endif %}
+</head>
+<body>
+    <h1>Welcome, User</h1>
+    <form action = "http://localhost:5000/uploader" method = "POST"
+         enctype = "multipart/form-data">
+         <input type = "file" name = "file" />
+         <input type = "submit"/>
+    </form>
+</body>
+</html>
