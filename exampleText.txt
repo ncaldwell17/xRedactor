@@ -1,0 +1,914 @@
+ 
+Elevate Services Australia, Pty. Ltd. 
+Level 3, 44 Martin Place, Sydney, NSW 2000 
+ACN: 167 311 382 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Master Services Agreement 
+
+ 
+THIS MASTER SERVICES AGREEMENT (the "Agreement") is made and entered into as of October 16, 2017 (the 
+“Effective  Date”)  between  Allens  Operations  Pty  Ltd  (ABN:  87  004  992  607),  with  its  office  at  Level  28, 
+Deutsche Bank Place, 126 Philip Street, Sydney, NSW 2000 (the "Company") and Elevate Services Australia, 
+Pty. Ltd., Level 3, 44 Martin Place, Sydney, NSW 2000 (“Elevate”). 
+ 
+WHEREAS, 
+
+I. 
+II. 
+III. 
+
+The Company provides business services to the law firm known as Allens; 
+Elevate provides consulting, technology and outsourcing services to law firms and corporations; and 
+The  Company  desires  to  retain  and  Elevate  agrees  to  provide  those  services  specified  herein  in 
+accordance with the terms and conditions provided in this Agreement. 
+
+ 
+THEREFORE, the parties agree as follows: 
+ 
+1. 
+1.1 
+
+DEFINITIONS 
+“Affiliates”  means  any  individual, corporation,  partnership,  limited  liability  company,  trust,  or  legal 
+entity which controls, is controlled by, or are under common control with the referenced party. 
+
+ 
+1.2 
+
+1.3 
+
+1.4 
+
+1.5 
+
+1.6 
+
+1.7 
+
+1.8 
+
+ 
+
+ is designated as confidential by either party; and/or 
+Any reasonable person knows or should know to be confidential. 
+
+"Allens  Group"  means  the  law  firm  Allens  (ABN  47  702  595  758)  and  the  totality  of  the  entities 
+(including all partnerships, trusts and companies) carrying on business under the name 'Allens' and 
+derivatives of that name, from time to time, including Allens Operations Pty Ltd and any predecessor 
+entities, successors or assignees. 
+ 
+“Company  Properties”  means  all  pre-existing  materials  owned  or  developed  by  or  licensed  by  the 
+Company, including Work Products.  
+ 
+“Confidential  Information”  includes,  but  is  not  limited  to,  any  non-public  information,  know-how, 
+concepts,  ideas,  sales  or  client  information,  vendor  information,  information  relating  to  any 
+technology, software, future products and/or trade secrets that: 
+i. 
+ii. 
+ 
+“Confidential  Materials”  means  any  and  all  tangible  media  or  materials  that  contains  or  discloses 
+Confidential  Information,  including  any  paper  documents,  computer  drives,  computer  tapes  and 
+other computer memory devices in human or machine readable formats. 
+ 
+“Discloser” means the party disclosing Confidential Information. 
+ 
+“Elevate Properties” means all pre-existing intellectual property of Elevate, including but not limited 
+to methodologies, know-how, tool kits, processes, systems, software, created or otherwise acquired 
+by Elevate. 
+  
+“Expenses”  means  all  expenses  reasonably  incurred  by  Elevate  and  its  personnel  in  course  of 
+performing the Services. 
+  
+
+1 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+1.9 
+
+1.10 
+
+1.11 
+
+1.12 
+
+1.13 
+ 
+1.14 
+
+2. 
+
+ 
+3. 
+3.1 
+
+3.2 
+
+3.3 
+
+3.4 
+
+ 
+3.5 
+
+ 
+
+ 
+
+ 
+
+“Fees” means any rates, charges, Expenses and other amounts specified in the applicable Statement 
+of Work for Services rendered. 
+ 
+“Receiver” means the party receiving Confidential Information. 
+ 
+“Services” means all consulting, programming, outsourcing and other related services as requested 
+by the Company and provided by Elevate or its Affiliates from time to time. 
+ 
+“Statement(s)  of  Work  or  SOW”  means  a  Services  request  in  a  form  similar  to  Exhibit  A,  mutually 
+agreed and executed by the parties and made a part of this Agreement. 
+ 
+“Term” means the term of the Agreement as provided in Section 4 below. 
+
+“Work  Products”  means  any  and  all  documents,  information,  material  or  other  creation  and/or 
+deliverables,  excluding  any  Elevate  Properties,  produced  by  Elevate  in  the  performance  of  the 
+Services. 
+ 
+SERVICES 
+Elevate  shall  provide  the  Services  documented  in  a  Statement  of  Work  to  the  Company  at  the 
+instruction  of  an  authorised  person  of  the  Company.  The  terms  of  a  Statement  of  Work  shall  be 
+incorporated into and form a part of this Agreement.  If there is a conflict between this Agreement 
+and a Statement of Work, the terms of this Agreement will govern, unless expressly stated otherwise 
+in the Statement of Work.   
+
+PRICING, INVOICING AND PAYMENT 
+Fees and Invoicing. The Company will pay Fees to Elevate in a timely manner. The Company agrees to 
+make  payments  of  all undisputed  amounts  due  to  Elevate  within thirty  (30)  days  from  the  date  of 
+invoice. The Company will be responsible for paying all applicable taxes, including but not limited to 
+sales  tax,  excise  duty,  VAT,  excluding  any  taxes  based  upon  Elevate’s  income  or  payroll.  Fees  for 
+Services will be considered earned as the Services are performed. 
+ 
+Late Payment. Any invoice not paid when due shall bear interest @12% per annum. 
+ 
+Annual  Price  Adjustments.    Elevate  shall  have  the  right  to  submit  changes  to  the  pricing  annually 
+from  the  date  of  the  SOW  for  changes  to  the  applicable  wage  inflation  rate  for  the  country  from 
+which  the  Services  are  delivered.  Elevate  shall  send  a  notification  of  the  pricing  change  to  the 
+Company thirty (30) days prior to the effective date of the change. 
+ 
+Currency adjustments. Where the payment under any SOW is being made in US Dollars, at the end of 
+each six (6) month period, starting from the Effective Date of such SOW, the pricing will be adjusted 
+up or down for any change in the foreign exchange rate from the currency of the country from which 
+the Services are delivered per USD $1. In the event of a Currency Adjustment, Elevate shall send a 
+notification of the pricing change to the Company thirty (30) days prior to the effective date of the 
+change. 
+
+Expenses.  The  Company  shall  reimburse  Elevate  for  Expenses  incurred  in  accordance  with  the 
+Company’s  reimbursement  policy,  as  provided  to  Elevate  from  time  to  time.  Such  Expenses  shall 
+include but not be limited to travel costs, lodging, telephone, meal expenses and per diem. Expenses 
+must be authorised in advance.  
+ 
+
+2 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+4. 
+4.1 
+
+4.2 
+
+4.3 
+
+4.4 
+
+5. 
+5.1 
+
+5.2 
+
+5.3 
+
+6. 
+6.1 
+
+ 
+
+ 
+
+ 
+
+TERM AND TERMINATION 
+Term.  The  Term  of  this  Agreement  shall  commence  as  of  the  Effective  Date  and  shall  continue 
+thereafter  for  two  (2)  calendar  years.    The  Term  shall  automatically  renew  for  successive  one  (1) 
+calendar year unless terminated in accordance with the below termination clause. Each Statement of 
+Work  may  have  its  own  termination  provisions.  Notice  of  termination  or  termination  of  any 
+Statement of Work shall not be considered notice of termination or termination of this Agreement. 
+ 
+Termination for Convenience. Either party may terminate this Agreement without cause upon sixty 
+(60) days’ written notice to the other party.  
+ 
+Termination for Cause. Either party may terminate this Agreement at any time in  the event of the 
+following:  
+i. 
+
+Immediately, if a voluntary arrangement is approved, a bankruptcy or administration order 
+is made or an administrative receiver is appointed over any of the other party's assets; an 
+undertaking  or  a  resolution  or  petition  to  wind  up  the  other  party  is  passed  or  presented 
+(other than for the purposes of amalgamation or reorganisation); and/or any circumstances 
+arise which entitle a court or a creditor to appoint an administrative receiver or to present a 
+winding-up petition or make a winding-up order in respect of the other party; or 
+Upon thirty (30) days’ notice of material breach of this Agreement if the notified Party fails 
+to cure such breach within such notice period. 
+
+ii. 
+
+ 
+Outcome of Termination. In the event of termination: 
+i. 
+ii. 
+iii. 
+
+Both parties shall return or destroy all Confidential Information of the other party; 
+Elevate shall deliver all Work Products to the Company in its then current form; and 
+The Company shall pay Elevate for all Services duly authorised by the Company and actually 
+performed by Elevate, including for any Work Products (whether complete or in draft form), 
+delivered  to  the  Company.  In  addition,  the  Company  shall  also  pay  for  any  approved 
+Expenses incurred by Elevate.  
+
+ 
+INTELLECTUAL PROPERTY 
+Company  Properties.  All  Company  Properties  shall  remain  the  sole  and  exclusive  property  of  the 
+Company. 
+ 
+Elevate Properties. Elevate Properties shall remain the sole and exclusive property of Elevate. Elevate 
+retains all rights, copyright, patent and other intellectual property rights in such Elevate Properties. 
+Elevate  may  use,  modify,  disclose  or  otherwise  commercially  exploit  Elevate  Properties  for  other 
+clients. If any Elevate Properties is used in any Work Product: 
+ 
+i. 
+ii. 
+
+Such Elevate Property shall remain the property of Elevate; and 
+Subject  to  full  payment  for  the  Work  Product  by  the  Company,  Elevate  grants  a  non-
+exclusive,  perpetual  and  royalty  free  license  to  the  Company  use  the  Elevate  Properties 
+incorporated in Company Properties. 
+
+ 
+Third Party Properties. Nothing herein shall cause or imply any sale, license or other transfer of third 
+party software or products from one party to the other. 
+ 
+CONFIDENTIALITY 
+Elevate  executed  a  Confidentiality  Deed  Poll  on  4  October  2017;  the  terms  of  this  Deed  Poll  form 
+part of this Agreement and will continue to apply to all Confidential Information provided to Elevate 
+
+3 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+
+ 
+6.2 
+
+6.3 
+
+6.4 
+
+ 
+6.5 
+
+ 
+6.6 
+
+7. 
+7.1 
+
+ 
+
+ 
+
+ 
+
+by  the  Company.  To  the  extent  of  any  inconsistency,  the  terms  of  the  Deed  Poll  prevail  over  this 
+Agreement.  
+
+Confidentiality  Obligations.  Confidential  Information  may  be  disclosed  in  writing,  orally  or  visually. 
+The Receiver shall: 
+i. 
+
+Maintain the Confidential Information of the Discloser in confidence using the same degree 
+of care as it uses to maintain its own confidential information of like nature, but no less than 
+a reasonable degree of care; 
+Disclose  Confidential  Information  to  its  employees,  associates,  affiliates,  subsidiaries  and 
+subcontractor only on a need to know basis; and 
+Ensure  that  the  person  receiving  Confidential Information knows  of  its  confidential nature 
+and  has  executed  a  confidentiality  agreement  with  similar  confidentiality  obligations  with 
+the Receiver. 
+
+ii. 
+
+iii. 
+
+ 
+Exclusions  to  Confidential  Information.  The  following  types  of  information,  however  marked,  shall 
+not be considered as Confidential Information. Information that: 
+i. 
+ii. 
+iii. 
+
+Is, or becomes, publicly available without a breach of this Agreement; 
+Was lawfully known to the Receiver without an obligation to keep it confidential;   
+Is  received  from  another  source  who  can  disclose  it  lawfully  and  without  an  obligation  to 
+keep it confidential; or 
+Is independently developed. 
+
+iv. 
+ 
+Unauthorised  Use  of  Confidential  Information.  In  the  event  the  Receiver  becomes  aware  of  any 
+attempted  or  actual  unauthorised  use,  possession,  knowledge  or  dissemination  of  Confidential 
+Information, the Receiver shall: 
+i. 
+
+Promptly  notify  the  Discloser  of  the  event  with  sufficient  details  to  allow  the  Discloser  to 
+investigate the event; 
+Assist the Discloser in its investigation and any ensuing litigation; 
+Assist the Discloser in recovering the Confidential Information; and 
+Put in place all mutually agreed additional security and other measures that is required to 
+protect the Confidential Information from similar events. 
+
+ii. 
+iii. 
+iv. 
+
+ Legal Disclosures. Receiver may disclose Confidential Information if required to comply with a court 
+order  or  other  government demand  that  has  the force of  law.  In  the  event  of  such  disclosure,  the 
+Receiver: 
+i. 
+
+Shall inform the Discloser of such court or government order to allow the Discloser sufficient 
+time to seek a protective order; 
+Shall support the Discloser in seeking the protective order; and 
+Disclose only such portions of the Confidential Information as legally required. 
+
+ii. 
+iii. 
+
+Injunctive Relief. The parties acknowledge that in the event of a breach or threatened breach of any 
+confidentiality obligations, monetary damages may not be an adequate remedy and the parties will 
+be entitled to an injunctive relief against such breach. 
+ 
+REPRESENTATIONS AND WARRANTIES 
+Company Representations and Warranties. The Company represents and warrants that it has: 
+i. 
+
+ All  rights,  titles  or  interests  in  Company  Properties  as  required  for  performance  of  its 
+obligations under this Agreement; and 
+The authority and the legal right to permit Elevate to perform the Services described in this 
+Agreement or any SOW. 
+
+ii. 
+
+4 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+
+7.2 
+
+7.3 
+
+7.4 
+
+7.5 
+
+8. 
+8.1 
+
+ 
+
+ 
+
+ 
+
+ 
+Elevate Representations and Warranties. Elevate represents and warrants that: 
+i. 
+
+It  has  all  rights,  title  or  interest  in  Elevate  Properties  required  for  performance  of  its 
+obligations under this Agreement; 
+It has the legal authority to provide the Services described in this Agreement or any SOW; 
+and 
+The Services provided under this Agreement or any SOW will be: 
+(a) 
+
+provided  with  professional  care  and  skill  and  technical  knowledge,  and  taking  all 
+steps to avoid loss or damage;  
+delivered within a reasonable time if no time frame is agreed; and  
+performed  by  trained  professionals  in  accordance  with  the  agreed  specifications 
+and all applicable industry standards. 
+
+ii. 
+
+iii. 
+
+(b) 
+(c) 
+
+Any claims related to breach of Elevate’s representation or warranty must be made in writing, within 
+ninety (90) days of completion of Services or the related Work Products. Elevate shall have thirty (30) 
+working days from the receipt of such notice to remedy the breach, failing which, the Company shall 
+have the right to terminate the relevant SOW relating to the Services or Work Product in accordance 
+with Section 4.3 of this Agreement. 
+  
+No Other Warranty. EXCEPT AS PROVIDED IN THIS SECTION 7, ELEVATE MAKES NO REPRESENTATION 
+OR WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, FROM A COURSE OF PERFORMANCE 
+OR DEALING, TRADE USAGE OR OF UNINTERRUPTED OPERATION WITHOUT ERROR, INCLUDING BUT 
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE. ELEVATE MAKES NO GUARANTEES WITH REGARD TO THE RESULTS OBTAINED FROM THE 
+OPERATION  OR  USE  BY  THE  COMPANY  OF  THE  WORK  PRODUCTS  OR  ELEVATE  PROPERTIES.  THE 
+LIMITED WARRANTIES SET FORTH IN THIS AGREEMENT ARE MADE FOR THE BENEFIT OF THE ALLENS 
+GROUP ONLY AND NOT FOR THE BENEFIT OF ANY THIRD PARTY. 
+ 
+Limitation  of  Damages.  EXCEPT  FOR  THE  INDEMNIFICATION  AND  CONFIDENTIALITY  OBLIGATIONS 
+SET FORTH IN THIS AGREEMENT, NEITHER PARTY SHALL HAVE ANY LIABILITY TO THE OTHER PARTY 
+WHATSOEVER  FOR  CONSEQUENTIAL,  INDIRECT,  EXEMPLARY,  INCIDENTIAL  OR  PUNITIVE  DAMAGES 
+OF  ANY  KIND,  INCLUDING  WITHOUT  LIMITATION,  FOR  LOSS  OF  PROFIT,  REVENUE  OR  BUSINESS, 
+EVEN IF ELEVATE HAS BEEN ADVISED OF POSSIBILITY OF SUCH DAMAGES. 
+ 
+Limitation  of  Liability.  EXCEPT  FOR  THE  INDEMNIFICATION  OR  CONFIDENTIALITY  OBLIGATIONS  SET 
+FORTH IN THIS AGREEMENT, EACH PARTY’S LIABILITY TO THE OTHER PARTY FOR ANY REASON AND 
+UPON ANY CAUSE OF ACTION, WHETHER IN TORT, CONTRACT, OR ANY OTHER LEGAL THEORY, SHALL 
+AT ALL TIMES AND IN THE AGGREGATE BE LIMITED TO THE AMOUNT OF THE FEES OR COMMISSION  
+ACTUALLY PAID BY THE COMPANY TO ELEVATEUNDER THE STATEMENT OF WORK RELATING TO THE 
+CAUSE  OF ACTION,  PROVIDED  THAT  SUCH LIABILITY  SHALL NOT EXCEED  THE  TOTAL  OF  SUCH  FEES 
+PAID DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT UPON WHICH LIABILITY IS 
+PREDICATED. 
+ 
+INDEMNIFICATION 
+Either party (“Indemnitor”) shall indemnify and hold harmless the other party, its affiliates, directors, 
+agents and employees (“Indemnitee”) against all claims, losses, damages or expenses arising out of 
+or in relation to:  
+i. 
+ii. 
+
+Willful misconduct or gross negligence of the Indemnitor; 
+Damage to property, death or personal injury caused by acts or omissions of the Indemnitor; 
+and /or  
+Breach of confidentiality obligations. 
+
+iii. 
+
+5 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+
+8.2 
+
+9. 
+9.1 
+
+9.2 
+
+10. 
+10.1 
+
+10.2 
+
+ 
+10.3 
+
+  
+10.4 
+
+ 
+10.5 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+In addition to the above, Elevate shall hold the Company harmless against all claims, losses, damages 
+or expenses arising out of or in relation to any infringement or allegations of infringement by a third 
+party  that  any  Work  Product  or  Elevate  Properties  infringe  or  is  likely  to  infringe  a  third  party’s 
+intellectual property rights, moral rights or other proprietary rights. 
+ 
+EMPLOYEE SOLICITATION AND HIRING 
+During the period of time stated below, each party and its affiliates / subsidiaries (“Restricted Party”) 
+agree not to offer employment to or hire any employee of the other party and its Affiliates (“Current 
+Employer”)  who  is  or  was  associated  with  the  sale,  delivery  or  receipt  of  Services,  or  otherwise 
+becomes  known  to  the  Restricted  Party  as  a  result  of  Services  performed  or  contemplated 
+hereunder,  without  the  prior  written  consent  of  the  Current  Employer.    This  restriction  shall 
+commence as of the Effective Date and end twelve (12) months after the expiration or termination 
+of this Agreement. 
+
+ 
+
+For  purposes  of  this  provision,  the  terms  “employment”  and  “employee”  shall  include  any  form  of 
+employment,  consulting,  contract  relationship,  or  other  arrangement  pursuant  to  which  such 
+individual performs or performed services for the Restricted Party or Current Employer. 
+ 
+MISCELLANEOUS 
+Subcontract. Elevate shall have the right to subcontract, with the consent of the Company (not to be 
+unreasonably  withheld),  all  or  portions  of  any  Services  under  this  Agreement  to  any  Affiliate  of 
+Elevate.  The  parties  may  not  subcontract  any  obligation  under  this  agreement  to  any  other  third 
+party without the express consent of the other party. 
+ 
+Compliance  with  Applicable  Laws.  Each  party  shall  at  all  times  comply  with  all  applicable  federal, 
+state, local and regulatory laws, rules and regulations that it is required to comply with, in relation to 
+this Agreement and any SOW. 
+
+Independent Contractor Relationship.  Elevate  shall  be  an  independent  contractor  of  the  Company. 
+Nothing  in  this  Agreement  is  intended  or  shall  be  construed  as  creating  a  joint  venture,  agency, 
+partnership  or  employer/employee  relationship,  or  any  legal  or  equitable  relationship  other  than 
+that of customer and independent contractor. Elevate shall have exclusive control over the manner 
+in which Services are provided.  
+
+Taxes. Elevate acknowledges that it and its personnel are independent contractors for purposes of 
+income tax withholding and employment taxes.  Elevate assumes full responsibility for the acts and 
+compensation  of  Elevate’s  personnel  and  Elevate  agrees  that  it  currently  and  will  continue  to 
+withhold  and remit  all  necessary  federal  and  state  income  taxes  related  to  its  personnel.   Elevate, 
+and not the Company, is solely responsible for withholding income and payroll taxes and for verifying 
+the  work  eligibility  of  each  person  performing  services  hereunder,  including  the  completion  and 
+maintenance  of  Form  I-9.    Elevate  will  indemnify,  defend,  and  hold  harmless  the  Company,  its 
+officers,  directors  and  employees  harmless  from  and  against  all  losses,  damages,  and  expenses 
+(including  reasonable  attorney  fees)  from  an  assessment  against  the  Company  of  withholding  or 
+employment taxes including interest and penalties thereon related to Elevate’s personnel. 
+
+Insurance.  Elevate  will  obtain  and  maintain  General  Liability  Insurance,  Automobile  Liability 
+Insurance,  Workers’  Compensation  Insurance,  Employer’s  Liability  Insurance,  Errors  and  Omissions 
+Insurance (Professional Liability Coverage), including contractual liability coverage where applicable.  
+
+6 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+10.6 
+
+10.7 
+
+10.8 
+
+ 
+10.9 
+
+ 
+
+ 
+
+ 
+
+Publicity. Neither party shall make any public announcements or otherwise communicate with any 
+news or industry media with respect to the Agreement nor the transactions contemplated hereunder 
+without the prior approval of the other party.  
+ 
+Force Majeure. Either party shall be excused from performance under this Agreement and shall not 
+be  liable  for  any  delay  in  whole  or  in  part,  caused  by  the  occurrence  of  an  event  beyond  either 
+party’s reasonable control. These events include, but are not limited to, natural disasters and severe 
+weather conditions, war, sabotage, riots, accidents, fires and explosions. In the event of continued 
+force majeure for over thirty (30) days, the parties may exercise their right to terminate the affected 
+SOW  for  convenience.  Force  majeure  event  shall  not  affect  any  payment  obligation  under  this 
+Agreement or a SOW. 
+ 
+Assignment.  No  assignment  of  this  Agreement  by  either  party  shall  be  valid  unless  authorised  in 
+writing by the other party. 
+
+Notices. Notices may be provided either by electronic or physical mail and shall be effective on the 
+date  of  receipt  of  notice.  The  parties  designate  the  below  persons  to  receive  notices.  Either  party 
+may specify changes by giving notice to the other: 
+
+COMPANY 
+
+ELEVATE 
+
+Name: Zane Turner 
+Designation: Co-General Counsel 
+Address:  Level  28,  Deutsche  Bank 
+Place,  126  Philip  Street,  Sydney,  NSW 
+2000 
+Email: zane.turner@allens.com.au 
+Name: Rod Fielding 
+Designation: COO & CFO  
+Address:  Level  28,  Deutsche  Bank 
+Place,  126  Philip  Street,  Sydney,  NSW 
+2000 
+Email: rod.fielding@allens.com.au 
+ 
+
+Name:              Daniel R. Coll 
+Designation:  VP, General Counsel 
+Address:  
+ 
+
+10250 Constellation Blvd., Suite 2815 
+Los Angeles, CA 90067 
+
+daniel.coll@elevateservices.com 
+
+Email:  
+Name:              James Odell 
+Designation:  MD Australia & APAC 
+Address:  
+                          Sydney, NSW 2000 
+
+Level 3, 44 Martin Place 
+
+ 
+
+Email:  
+
+james.odell@elevateservices.com 
+
+10.10  No Waiver. Any delay or failure to exercise a right or remedy will not result in a waiver of that right 
+
+or remedy. 
+ 
+Integration, Modification and Severability. 
+i. 
+
+10.11 
+
+ii. 
+iii. 
+
+This  Agreement  includes  the  Confidentiality  Deed  executed  by  Elevate  and  any  SOW(s) 
+entered  into  by  both  parties;  these  documents  form  the  entire  agreement  between  the 
+parties  regarding  its  subject  matter.    It  replaces  all  prior  agreements  and  representations 
+regarding its subject matter. 
+This Agreement can be changed only by an amendment signed by both parties. 
+If any term or provision of this Agreement is found by a court of competent jurisdiction to be 
+invalid,  illegal  or  otherwise  unenforceable,  such  term  or  provision  will  be  modified  to  the 
+extent necessary in the court's opinion to render such term or provision enforceable.  This 
+term or provision will not affect the other terms or provisions thereof or the whole of the 
+Agreement. 
+ 
+
+10.12 
+
+ Survival. Sections 6, 7, 8 and 9 shall survive the expiration or termination of this Agreement. 
+ 
+
+ 
+
+7 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+
+ 
+
+ 
+ 
+ 
+10.13  Governing Law. This Agreement shall be construed and enforced in accordance with the laws of the 
+State  of  New  South  Wales  regardless  of  the  laws  that  might  otherwise  govern  under  applicable 
+choice-of-law  principles.    The  parties  consent  to  the  jurisdiction of  the  courts  of  New  South Wales 
+with  respect  to  any  legal  proceedings  that  may  result  from  a  dispute  as  to  the  interpretation  or 
+breach of any of the terms and conditions of this Agreement. 
+ 
+
+10.14  Counterparts. This Agreement may be executed in counterparts, and signatures exchanged by 
+
+11. 
+
+facsimile or other electronic means are effective for all purposes hereunder to the same extent as 
+original signatures. 
+ 
+BENEFIT 
+While Allens Operations Pty Ltd (ACN 87 004 992 607) is the party entering into this Agreement Elevate 
+acknowledges and agrees that the products and services to be provided under this Agreement can be 
+used by the Allens Group and any officers, employees, agents or contractors of any of the Allens Group, 
+subject at all times to the terms of this Agreement. 
+
+ 
+ 
+Agreed and accepted: 
+
+ 
+
+Signature: 
+ 
+ 
+ 
+Name: 
+Title: 
+Date: 
+ 
+
+Signature: 
+ 
+ 
+ 
+Name: 
+Title: 
+Date: 
+
+Company 
+
+Elevate 
+
+Company 
+
+Signature: 
+ 
+ 
+ 
+Name:  
+Title:  
+Date: 
+
+Signature: 
+ 
+ 
+ 
+Name:  
+Title:  
+Date: 
+
+James Odell 
+MD Australia & APAC 
+
+Elevate 
+
+Daniel R. Coll 
+Attorney 
+
+ 
+
+8 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909October 16, 2017October 16, 2017October 16, 2017MrRod FieldingChief Knowledge OfficerRachel O’ConnorOctober 16, 2017 
+
+ 
+
+ 
+Elevate Services Australia, Pty. Ltd. 
+Level 3, 44 Martin Place, Sydney, NSW 2000 
+ACN: 167 311 382 
+
+ 
+
+Exhibit A 
+
+Statement of Work [Number]  
+
+ 
+THIS STATEMENT OF WORK NUMBER [INSERT NUMBER] (the "SOW") between Allens Operations Pty Ltd 
+(ABN: 87 004 992 607) (the "Company") and Elevate Services Australia, Pty. Ltd. (“Elevate”) is pursuant to 
+and a part of the MASTER SERVICES AGREEMENT between the parties dated [DATE] (the “Agreement”). 
+ 
+Unless otherwise specified, terms defined in the Agreement shall have the same meanings when used in 
+this SOW. 
+ 
+1. 
+
+DESCRIPTION OF THE SERVICES 
+ 
+WORK PRODUCTS 
+
+2. 
+ 
+3. 
+ 
+4. 
+
+ 
+5. 
+5.1 
+
+5.2 
+
+ 
+6. 
+6.1 
+
+ 
+7. 
+
+  
+8. 
+
+ 
+ 
+
+ 
+
+ELEVATE PROPERTIES AND COMPANY PROPERTIES 
+
+TERM OF SOW 
+This  SOW  shall  be  effective  as  of  ___________  (the  “Effective  Date”)  and  shall  continue  until 
+terminated by either party in accordance with the Agreement. 
+
+FEES 
+Fees. [Details of fees paid against Work Products or services] 
+ 
+Payment. Unless otherwise stated in this SOW, the standard invoicing terms as provided in the 
+Agreement shall apply to this SOW. 
+
+RESOURCES 
+[Details  of  resources  to  be  provided  only  if  on  a  dedicated  basis  or  details  of  hours  to  be 
+dedicated to creation of Work Product or provision of Services.] 
+
+LOCATION 
+[Add location of performance of Services] 
+
+ADDITIONAL TERMS 
+[Add as required] 
+ 
+This Statement of Work shall be attached to and incorporated into the Agreement, and is subject 
+to all the terms and conditions of the Agreement. In the event of any conflict, the terms of the 
+Agreement shall prevail, except for any Services related or transactional detail, wherein the 
+provisions of this Statement of Work shall prevail. 
+
+1 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Agreed and accepted: 
+ 
+
+Company 
+
+Elevate 
+
+Signature: 
+ 
+ 
+ 
+Name: 
+Title: 
+Date: 
+ 
+
+Signature: 
+ 
+ 
+ 
+Name: 
+Title: 
+Date: 
+ 
+ 
+ 
+
+Company 
+
+Signature: 
+ 
+ 
+ 
+Name:  
+Title:  
+Date: 
+
+Signature: 
+ 
+ 
+ 
+Name:  
+Title:  
+Date: 
+
+ 
+
+ 
+
+James Odell 
+MD Australia & APAC 
+
+Elevate 
+
+Daniel R. Coll 
+Attorney 
+
+ 
+
+2 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909
+**************************************************************************************************
