@@ -19,6 +19,10 @@ def process_file():
             text = convert_pdf_to_txt(secure_filename(f.filename))
             save_to_file(text)
             os.remove(secure_filename(f.filename))
+            # redactions = list()
+            # for line in text doc:
+            #   redactions.append(Redact(line))
+            # return render_template('ui.html', redactions=redactions)
             return text
         else:
             return 'This was not a PDF file.'
