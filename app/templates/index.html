@@ -2,18 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    {% if title %}
-    <title>{{ title}} - Upload</title>
-    {% else %}
     <title>Upload Files</title>
-    {% endif %}
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <style>
+        .centered {
+            width: 500px;
+            margin: 50px auto;
+        }
+
+    </style>
 </head>
+
 <body>
-    <h1>Welcome, User</h1>
-    <form action = "http://localhost:5000/uploader" method = "POST"
-         enctype = "multipart/form-data">
-         <input type = "file" name = "file" />
-         <input type = "submit"/>
-    </form>
+    <div id="main" class="centered">
+        <h1>Please Use the Form Below to Upload a Document</h1>
+        <form action = "http://localhost:5000/uploader" method = "POST"
+             enctype = "multipart/form-data">
+             <input type = "file" name = "file" />
+             <input type = "submit" onclick="$('#loading').show(); $('#main').hide()"/>
+        </form>
+    </div>
+
+    <div id="loading" class="centered" style="display:none;"><img src="../static/loading.gif" alt="" /></div>
+
+
 </body>
 </html>

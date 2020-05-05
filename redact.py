@@ -90,12 +90,8 @@ clause_redactor = ClauseRedactor([organization_redactor,
                                   fac_redactor,
                                   woa_redactor])
 
-example_clause = 'THIS MASTER SERVICES AGREEMENT (the "Agreement") is made and entered into as of October 16, 2017 (the ' \
-                 '“Effective  Date”)  between  Allens  Operations  Pty  Ltd  (ABN:  87  004  992  607),  with  its  office  at  Level  28, ' \
-                 'Deutsche Bank Place, 126 Philip Street, Sydney, NSW 2000 (the "Company") and Elevate Services Australia, ' \
-                 'Pty. Ltd., Level 3, 44 Martin Place, Sydney, NSW 2000 (“Elevate”).'
-
-redacted_clause = clause_redactor.redact(example_clause)
-print(redacted_clause)
+# example_clause = ''
+# redacted_clause = clause_redactor.redact(example_clause)
+# print(redacted_clause)
 
 
