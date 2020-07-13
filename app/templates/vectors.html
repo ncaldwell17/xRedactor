@@ -1,15 +1,21 @@
 {% extends "base.html" %}
 
 {% block content %}
-
 <div class="mainVector">
     <div id="vectorLeft" style="float: left">
         <h2>Vector Representation</h2>
         <div id="plot"></div>
     </div>
-    <div id="vectorRight" style="float: right;">
-        <h2>Downloads</h2>
-        <div class="download">Download Vectorizer</div>
+    <div id="vectorRight" style="float: right; margin-bottom: 100px">
+        <h2 style="text-align: right;">Downloads Available</h2>
+        <br>
+        <br>
+        <a href="/images/myw3schoolsimage.jpg" download>
+            <div class="download" style="padding-top: 30px">Download Vectorizer</div>
+        </a>
+        <a href="/images/myw3schoolsimage.jpg" download>
+            <div class="download" style="padding-top: 20px">Download Redacted Document</div>
+        </a>
     </div>
 </div>
 {% endblock %}
