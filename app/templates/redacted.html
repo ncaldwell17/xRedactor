@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+        html {
+            height: 100%;
+        }
+        body {
+            background-image: linear-gradient(to bottom, #191936, #1f1f43);
+            height: 100vh;
+            margin: 0;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: white;
+            font-family: Ubuntu, sans-serif;
+        }
+        #textContainer {
+            background-image: linear-gradient(to bottom, #313169, #3d3d83);
+            border-radius: 20px;
+            height: 620px;
+            min-width: 450px;
+            max-width: 1000px;
+            width: 60vw;
+            margin: 20px auto;
+            padding-top: 30px;
+            overflow: auto;
+        }
+        #textModal {
+            background-image: linear-gradient(to bottom, #313169, #3d3d83);
+            border-radius: 20px;
+            height: 90px;
+            width: 60vw;
+            min-width: 450px;
+            max-width: 1000px;
+            margin: 40px auto;
+            padding-top: 10px;
+        }
+        #modalContent {
+            height: 90%;
+            display: none;
+            color: white;
+            text-align: center;
+        }
+
+        /* Text Features */
+        .redactedContent {
+            padding-left: 30px;
+            padding-right: 30px;
+            overflow: auto;
+            line-height: 180%;
+
+        }
+        .redacted {
+            background-color: #f8b26a;
+        }
+        .redacted:hover {
+            cursor: pointer;
+            background-color: #e15b64;
+            transition: .3s;
+        }
+
+        .redacted:hover + .hide {
+            display: block;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="textModal">
+        <div id="modalContent">Please log-in to edit redaction choices.</div>
+    </div>
+
+    <div id="textContainer">
+        <p class="redactedContent">
+            <span class="normal"> THIS MASTER SERVICES AGREEMENT (the "Agreement") is made and entered into as of
+                <span class="redacted">REDACTED</span>
+                (the “Effective  Date”)  between  Allens  Operations  REDACTED  (REDACTED:  REDACTED  004  992  607),  with  its  office  at  Level  REDACTED,
+ REDACTED, 126 REDACTED, REDACTED, NSW REDACTED (the "Company") and REDACTED,
+ REDACTED, Level 3, 44 REDACTED, REDACTED, NSW REDACTED (“REDACTED_388”).
+            </span>
+        </p>
+        <p class="redactedContent">
+            The Company provides business services to the law firm known as <span class="redacted">REDACTED</span>;
+ Elevate provides consulting, technology and outsourcing services to law firms and corporations; and
+ The  Company  desires  to  retain  and  Elevate  agrees  to  provide  those  services  specified  herein  in
+ accordance with the terms and conditions provided in this Agreement.
+        </p>
+        <p class="redactedContent">“Fees” means any rates, charges, Expenses and other amounts specified in the applicable Statement
+ of REDACTED rendered.
+
+ “Receiver” means the party receiving REDACTED.
+
+ “Services” means all consulting, programming, outsourcing and other related services as requested
+ by the REDACTED and provided by Elevate or its REDACTED from time to time.
+
+ “Statement(s)  of  Work  or  SOW”  means  a  Services  request  in  a  form  similar  to  Exhibit  A,  mutually
+ agreed and executed by the parties and made a part of this Agreement.
+
+ “Term” means the term of the Agreement as provided in Section 4 below.
+
+ “REDACTED_388”  means  any  and  all  documents,  information,  material  or  other  creation  and/or
+ deliverables,  excluding  any  Elevate  Properties,  produced  by  Elevate  in  the  performance  of  the
+ Services.
+
+ SERVICES
+ Elevate  shall  provide  the  Services  documented  in  a  Statement  of  Work  to  the  Company  at  the
+ instruction  of  an  authorised  person  of  the  Company.  The  terms  of  a  Statement  of  Work  shall  be
+ incorporated into and form a part of this Agreement.  If there is a conflict between this Agreement
+ and a Statement of Work, the terms of this Agreement will govern, unless expressly stated otherwise
+ in the Statement of Work.
+
+ PRICING, INVOICING AND PAYMENT
+ Fees and Invoicing. The REDACTED will pay Fees to Elevate in a timely manner. The Company agrees to
+ make  payments  of  all undisputed  amounts  due  to  Elevate  within REDACTED  (30)  REDACTED  from  the  date  of
+ invoice. The REDACTED will be responsible for paying all applicable taxes, including but not limited to
+ sales  tax,  excise  duty,  VAT,  excluding  any  taxes  based  upon  Elevate’s  income  or  payroll.  Fees  for
+ Services will be considered earned as the Services are performed.
+
+ Late Payment. Any invoice not paid when due shall bear interest @12% per annum.
+
+ REDACTED  Price  Adjustments.    Elevate  shall  have  the  right  to  submit  changes  to  the  pricing  REDACTED
+ from  the  date  of  the  SOW  for  changes  to  the  applicable  wage  inflation  rate  for  the  country  from
+ which  the  Services  are  delivered.  Elevate  shall  send  a  notification  of  the  pricing  change  to  the
+ Company thirty (REDACTED prior to the effective date of the change.
+
+ Currency adjustments. Where the payment under any SOW is being made in REDACTED Dollars, at the end of
+ each six (REDACTED, starting from the Effective Date of such SOW, the pricing will be adjusted
+ up or down for any change in the foreign exchange rate from the currency of the country from which
+ the REDACTED are delivered per USD $1. In the event of a Currency Adjustment, Elevate shall send a
+ notification of the pricing change to the Company thirty (REDACTED prior to the effective date of the
+ change.
+
+ Expenses.  The  Company  shall  reimburse  Elevate  for  Expenses  incurred  in  accordance  with  the
+ Company’s  reimbursement  policy,  as  provided  to  Elevate  from  time  to  time.  Such  Expenses  shall
+ include but not be limited to travel costs, lodging, telephone, meal expenses and per diem. Expenses
+ must be authorised in advance.  </p>
+    </div>
+
+    <script>
+        $(".redacted").click(function () {
+            console.log('Hello World');
+            $(this).css('background-color', '#e15b64');
+            $('#modalContent').css('display', 'block');
+        })
+    </script>
+
+
+</body>
+</html>

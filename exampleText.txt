@@ -1,1408 +1,902 @@
-MASTER SERVICE AGREEMENT 
+Elevate Services Australia, Pty. Ltd. 
+Level 3, 44 Martin Place, Sydney, NSW 2000 
+ACN: 167 311 382 
 
-dated 
-
-8TH FEBRUARY 2018 
-
-by 
-
-ELEVATE SERVICES, INC. 
-
-Supplier 
-
-and 
-
-BAKER & MCKENZIE GLOBAL SERVICES LLC 
-
-Customer 
+Master Services Agreement 
 
  
+THIS MASTER SERVICES AGREEMENT (the "Agreement") is made and entered into as of October 16, 2017 (the “Effective  Date”)  between  Allens  Operations  Pty  Ltd  (ABN:  87  004  992  607),  with  its  office  at  Level  28, Deutsche Bank Place, 126 Philip Street, Sydney, NSW 2000 (the "Company") and Elevate Services Australia, Pty. Ltd., Level 3, 44 Martin Place, Sydney, NSW 2000 (“Elevate”). 
+ 
+WHEREAS, 
+
+I. 
+II. 
+III. 
+
+The Company provides business services to the law firm known as Allens; 
+Elevate provides consulting, technology and outsourcing services to law firms and corporations; and 
+The  Company  desires  to  retain  and  Elevate  agrees  to  provide  those  services  specified  herein  in 
+accordance with the terms and conditions provided in this Agreement. 
 
  
-
-Baker & McKenzie Global Services LLC, 300 East Randolph Street, Suite 4300, Chicago, IL 60601. 
-
+THEREFORE, the parties agree as follows: 
  
- 
-
-www.bakermckenzie.com 
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-
- 
-
-Table of contents 
-1. 
-
-Services ..................................................................................................................................... 1 
-
-2. 
-3. 
-4. 
-
-5. 
-6. 
-7. 
-
-8. 
-9. 
-10. 
-
-Supplier Personnel ................................................................................................................... 1 
-Term and Termination ............................................................................................................ 3 
-Compensation ........................................................................................................................... 3 
-
-Confidentiality .......................................................................................................................... 4 
-Publicity .................................................................................................................................... 5 
-Change Orders ......................................................................................................................... 6 
-
-Insurance .................................................................................................................................. 6 
-Acceptance ................................................................................................................................ 5 
-Proprietary Information ......................................................................................................... 7 
-
-Indemnity and Liability ........................................................................................................... 7 
-11. 
-12.  Warranty .................................................................................................................................. 8 
- 
-13.  Miscellaneous…………………………………………………………………………….........9 
- 
-
- 
-Exhibit A 
-Security and Disaster Recovery Schedule……………………………………………………….....12 
-
- 
-Exhibit B 
-Data Privacy and Data Security Terms…………………………………………………………..14
-
- 
-
- 
-
-i 
- 
-
- 
-
-Master Service Agreement 
-This Master Service Agreement is dated 8th February 2018 (the "Effective Date") 
-
-Between 
-Elevate Services, Inc., organized under the laws of the State of Delaware, with headquarters located 
-at 10250 Constellation Blvd., Suite 2815, Los Angeles, CA 90067 ("Supplier"); and 
-
-Baker & McKenzie Global Services LLC, organized and existing under the laws of Illinois, with 
-offices at 300 East Randolph Street, Suite 4300, Chicago, IL 60601 ("Customer"). 
-Customer and Supplier will be referred to individually each as a "Party" and collectively as the 
-"Parties". The Parties are entering into this Agreement for itself and for the benefit of its Affiliates for 
-providing and receiving Services (as defined below) under this Agreement. The term "Customer 
-Affiliates" means Baker & McKenzie International, any member firm of Baker & McKenzie 
-International and any wholly or majority owned affiliated entities of either one of them. The term 
-"Supplier Affiliates" means any individual, corporation, partnership, limited liability company, trust, 
-or legal entity which controls, is controlled by, or are under common control with the Supplier. 
-
-Specific business terms and requirements for Services will be set forth in one or more written 
-statements of work, order form or any other associated documentation that references this Agreement, 
-hereby collectively defined as a "Statement of Work" or "SOW"). This Master Service Agreement 
-includes this Agreement and any SOW which references this Agreement, and shall be considered 
-valid once signed by an authorized representative of both parties. Any Change Order to a SOW shall 
-also be bound by the terms of this Agreement even if this Agreement is not expressly referenced in 
-the Change Order. 
-Now, therefore, in consideration of the mutual promises, representations and covenants set forth 
-herein, Customer and the Supplier agree to the following: 
 1. 
 1.1 
 
-Services 
-Supplier, as an independent Supplier, agrees to render services listed in any related Statement 
-of Work executed by both Customer and Supplier. Services, as further described in this 
-Agreement and each SOW, will be provided by Supplier as requested in writing by Customer 
-("Services"). The Services will include all related services, functions or responsibilities not 
-specifically described in this Agreement or an SOW, but that are inherent, necessary or a 
-customary part of the Services, or that are required or reasonably necessary for the proper 
-performance and the provision of the Services, excluding those tasks and other responsibilities 
-identified as those of Customer in the applicable SOW and subject to the assumptions set 
-forth in the SOW. 
+DEFINITIONS 
+“Affiliates”  means  any  individual, corporation,  partnership,  limited  liability  company,  trust,  or  legal 
+entity which controls, is controlled by, or are under common control with the referenced party. 
 
-2. 
-2.1 
+ 
+1.2 
 
-Supplier Personnel 
-Supplier will assign sufficient numbers (in terms of head count and skill types) of Supplier 
-Personnel (as defined below) to properly perform the Services in accordance with this 
-Agreement and each SOW. Each of the Supplier Personnel will possess suitable competence, 
-ability, education, training and other qualifications for the roles that Supplier assigns to them 
-in providing the Services. Supplier covenants that each of the Supplier Personnel will undergo 
-a background check (including a check of criminal record, work experience and education) 
-prior to his or her assignment to perform any Services hereunder. 
+1.3 
 
-2.2 
+1.4 
 
-Independent contractor 
+1.5 
 
-The relationship of Supplier and Supplier Personnel to Customer will be that of independent 
-contractors. Neither this Agreement nor the performance of Services shall, or be deemed to, 
+1.6 
+
+1.7 
+
+1.8 
 
  
 
+ is designated as confidential by either party; and/or 
+Any reasonable person knows or should know to be confidential. 
+
+"Allens  Group"  means  the  law  firm  Allens  (ABN  47  702  595  758)  and  the  totality  of  the  entities 
+(including all partnerships, trusts and companies) carrying on business under the name 'Allens' and 
+derivatives of that name, from time to time, including Allens Operations Pty Ltd and any predecessor 
+entities, successors or assignees. 
  
+“Company  Properties”  means  all  pre-existing  materials  owned  or  developed  by  or  licensed  by  the 
+Company, including Work Products.  
+ 
+“Confidential  Information”  includes,  but  is  not  limited  to,  any  non-public  information,  know-how, 
+concepts,  ideas,  sales  or  client  information,  vendor  information,  information  relating  to  any 
+technology, software, future products and/or trade secrets that: 
+i. 
+ii. 
+ 
+“Confidential  Materials”  means  any  and  all  tangible  media  or  materials  that  contains  or  discloses 
+Confidential  Information,  including  any  paper  documents,  computer  drives,  computer  tapes  and 
+other computer memory devices in human or machine readable formats. 
+ 
+“Discloser” means the party disclosing Confidential Information. 
+ 
+“Elevate Properties” means all pre-existing intellectual property of Elevate, including but not limited 
+to methodologies, know-how, tool kits, processes, systems, software, created or otherwise acquired 
+by Elevate. 
+  
+“Expenses”  means  all  expenses  reasonably  incurred  by  Elevate  and  its  personnel  in  course  of 
+performing the Services. 
+  
 
 1 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
  
-
-2.3 
-
-2.4 
-
-2.5 
-
  
+1.9 
 
-create a partnership, joint venture, agency, fiduciary or employment relationship or any other 
-similar legal relationship between the parties. All persons who are employees, contractors, 
-representatives and agents of Supplier, its affiliates or any of its subcontractors who perform 
-any Services under this Agreement (collectively, "Supplier Personnel") will be the 
-employees or subcontractors of Supplier, as the case may be, and will be neither the 
-employees nor agents of Customer or any other Customer Affiliate. Supplier will be 
-responsible and therefore, as between Supplier and Customer, solely liable for all acts and 
-omissions of Supplier Personnel in connection with the performance of this Agreement, 
-including any failure of such individuals to comply with Supplier's obligations under this 
-Agreement. 
+1.10 
 
-Supplier will be solely responsible for all salaries and other compensation of the Supplier 
-Personnel. Supplier will be solely responsible for making all deductions and withholdings 
-from its employees' salaries and other compensation, and for the payment of all contributions, 
-taxes and assessments and will comply with all other requirements of federal or state laws or 
-regulations regarding conditions of employment including federal or state laws or regulations 
-regarding minimum compensation, unemployment compensation, Social Security, worker's 
-compensation insurance and payments, environmental regulation, occupational safety and 
-health, overtime, hours of work and equal opportunities for employment. 
+1.11 
 
-Supplier will cause the Supplier Personnel, while working at or visiting the premises of 
-Customer or any Customer Affiliate, to comply with all the internal rules and regulations of 
-the Customer or Customer Affiliates, including security procedures, and all applicable foreign, 
-federal, state and local laws and regulations applicable to the location where said employees 
-are working or visiting. 
+1.12 
 
-Supplier will use commercially reasonable efforts to minimize the turnover rate of Supplier 
-Personnel with regard to each SOW and across all SOWs, and require the same of its 
-subcontractors unless otherwise agreed in advance in writing, provided that nothing in or 
-associated with such efforts will in any way limit, restrict or preclude any action deemed 
-necessary by Supplier in its capacity as employer of its employees or require Supplier to take 
-any particular action in respect of its employees. For the avoidance of doubt, the use of 
-subcontractors is not permitted without advance written consent from the Customer except in 
-the event Supplier subcontracts to Supplier Affiliate, provided the Supplier warrants that the 
-Supplier Affiliate will comply with the relevant terms of this Agreement. Supplier will 
-conduct background checks of all Supplier Personnel in advance of the commencement of 
-Service and will confirm this in writing to Customer.  Once a Statement of Work has been 
-executed and Service has commenced, Supplier may not change the personnel assigned to 
-complete the Services in that Statement of Work for any reason, other than termination of 
-assigned personnel, without the written consent of the Customer and such consent will not be 
-unreasonably withheld. In the event of a change in personnel per the terms of this clause 2, 
-Supplier shall provide such new personnel at no cost to Customer for a "Transition Period" 
-equal to the lesser of twenty five percent of the total time of the engagement or 2 hours. 
+1.13 
+ 
+1.14 
 
-2.6 
-
-Customer has in place a Code of Business Conduct, which can be located by the following 
-link: 
+2. 
 
  
-
- 
-
- 
-
-http://www.bakermckenzie.com/en/aboutus/code-of-business-conduct 
-
-The Customer Code of Business Conduct sets out its legal, ethical and professional 
-obligations and responsibilities on the Customer as well as detailing principles that guide all 
-Customer personnel behaviour and decision-making. The Supplier agrees that it will read, 
-become familiar with and, to the extent relevant, comply with the Customer Code of Business 
-Conduct and adhere to the principles in the Customer Code of Business Conduct, in terms of 
-Supplier behaviour. 
-
- 
-
-2 
- 
-
- 
-
 3. 
 3.1 
 
-The Supplier will promptly notify the Customer if it cannot comply with or has otherwise 
-violated the Customer Code of Business Conduct. 
-
-Term and termination 
-This Agreement shall take effect on the Effective Date and shall remain in effect until 
-terminated by either Party in accordance with the terms set forth herewith. The terms of each 
-Statement of Work shall take effect on the last date of execution by the Parties and shall, 
-unless otherwise provided in a SOW, remain in effect until the Services related to the 
-Statement of Work have been completed per the Acceptance Terms detailed in clause 9. 
-Either Party to this Agreement shall retain the right to terminate this Agreement or Statement 
-of Work implemented hereunder without cause, upon 60 days advance written notice. This 
-Agreement or a related Statement of Work may be terminated by either Party upon 30 days’ 
-written notice in the event of a breach of this Agreement or any Statement of Work by 
-Supplier, if the notified Party fails to cure such breach within the notice period. Either Party 
-may terminate this Agreement immediately, if a voluntary arrangement is approved, a 
-bankruptcy or administration order is made or an administrative receiver is appointed over 
-any of the other Party's assets; an undertaking or a resolution or petition to wind up the other 
-Party is passed or presented (other than for the purposes of amalgamation or reorganization); 
-and/or any circumstances arise which entitle a court or a creditor to appoint  an administrative 
-receiver or to present a winding-up petition or make a winding-up order in respect of the other 
-Party. Termination of a Statement of Work will not constitute termination of this Agreement 
-or any other active Statement of Work. 
-
 3.2 
 
-Effect of termination; survival 
+3.3 
 
-Upon any expiration or termination of this Agreement or an SOW, Customer will be liable 
-only for payment of undisputed fees earned as a result of Services and Deliverables (as 
-defined below) actually provided by Supplier and accepted by Customer (in accordance with 
-Section 9.1 of this Agreement) prior to the date of termination, which fees will be calculated 
-in accordance with the applicable SOW, along with taxes and expenses to the extent provided 
-in the applicable SOW. In addition, the Customer shall also pay for any pre-approved 
-expenses incurred by the Supplier in performance of its Services in connection with this 
-Agreement. Any provision of this Agreement that contemplates performance or observance 
-subsequent to any termination or expiration of this Agreement, including without limitation 
-clauses 5, 8, 10, 11, 12 and 13 will survive any termination or expiration of this Agreement 
-and continue in full force and effect. 
+3.4 
 
+ 
+3.5 
+
+ 
+
+ 
+
+ 
+
+“Fees” means any rates, charges, Expenses and other amounts specified in the applicable Statement 
+of Work for Services rendered. 
+ 
+“Receiver” means the party receiving Confidential Information. 
+ 
+“Services” means all consulting, programming, outsourcing and other related services as requested 
+by the Company and provided by Elevate or its Affiliates from time to time. 
+ 
+“Statement(s)  of  Work  or  SOW”  means  a  Services  request  in  a  form  similar  to  Exhibit  A,  mutually 
+agreed and executed by the parties and made a part of this Agreement. 
+ 
+“Term” means the term of the Agreement as provided in Section 4 below. 
+
+“Work  Products”  means  any  and  all  documents,  information,  material  or  other  creation  and/or 
+deliverables,  excluding  any  Elevate  Properties,  produced  by  Elevate  in  the  performance  of  the 
+Services. 
+ 
+SERVICES 
+Elevate  shall  provide  the  Services  documented  in  a  Statement  of  Work  to  the  Company  at  the 
+instruction  of  an  authorised  person  of  the  Company.  The  terms  of  a  Statement  of  Work  shall  be 
+incorporated into and form a part of this Agreement.  If there is a conflict between this Agreement 
+and a Statement of Work, the terms of this Agreement will govern, unless expressly stated otherwise 
+in the Statement of Work.   
+
+PRICING, INVOICING AND PAYMENT 
+Fees and Invoicing. The Company will pay Fees to Elevate in a timely manner. The Company agrees to 
+make  payments  of  all undisputed  amounts  due  to  Elevate  within thirty  (30)  days  from  the  date  of 
+invoice. The Company will be responsible for paying all applicable taxes, including but not limited to 
+sales  tax,  excise  duty,  VAT,  excluding  any  taxes  based  upon  Elevate’s  income  or  payroll.  Fees  for 
+Services will be considered earned as the Services are performed. 
+ 
+Late Payment. Any invoice not paid when due shall bear interest @12% per annum. 
+ 
+Annual  Price  Adjustments.    Elevate  shall  have  the  right  to  submit  changes  to  the  pricing  annually 
+from  the  date  of  the  SOW  for  changes  to  the  applicable  wage  inflation  rate  for  the  country  from 
+which  the  Services  are  delivered.  Elevate  shall  send  a  notification  of  the  pricing  change  to  the 
+Company thirty (30) days prior to the effective date of the change. 
+ 
+Currency adjustments. Where the payment under any SOW is being made in US Dollars, at the end of 
+each six (6) month period, starting from the Effective Date of such SOW, the pricing will be adjusted 
+up or down for any change in the foreign exchange rate from the currency of the country from which 
+the Services are delivered per USD $1. In the event of a Currency Adjustment, Elevate shall send a 
+notification of the pricing change to the Company thirty (30) days prior to the effective date of the 
+change. 
+
+Expenses.  The  Company  shall  reimburse  Elevate  for  Expenses  incurred  in  accordance  with  the 
+Company’s  reimbursement  policy,  as  provided  to  Elevate  from  time  to  time.  Such  Expenses  shall 
+include but not be limited to travel costs, lodging, telephone, meal expenses and per diem. Expenses 
+must be authorised in advance.  
+ 
+
+2 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
 4. 
 4.1 
 
-Compensation 
-Fees and expenses 
-
-Supplier's rates and charges for all Services provided under this Agreement will not exceed 
-the rates and charges specified on the Statement of Work. When agreed to in the applicable 
-SOW, Customer will pay reasonable and actual pre-approved travel and other expenses 
-incurred by Supplier to perform Services. Barring any unforeseen circumstances beyond 
-Supplier's direct control, Supplier will minimize expenses where possible, and, unless 
-otherwise agreed in a SOW, limit daily meal expenses to the equivalent of $60 (US) per day 
-per person and keep total expenses lower than the equivalent of $2000 (US) per week per 
-person. Supplier acknowledges that there will be no travel or meal expenses for Supplier's 
-employees whose primary residence is in the same geographic area (within 50 miles) of 
-Customer's office for Services performed at that office. Supplier will be responsible for all 
-expenses not so approved by Customer or otherwise incurred in performing Supplier's 
-obligations hereunder. 
-
- 
-
- 
-
- 
-
-3 
- 
-
- 
-
 4.2 
-
-Payment 
-
-For all Services to be provided on a fixed-fee basis or paid for on the basis of Supplier's 
-achievement of milestones set forth in an SOW, Supplier will invoice Customer in accordance 
-with the payment schedule set forth in the applicable SOW. For all other Services, Supplier 
-will invoice Customer monthly in arrears. Customer will pay any undisputed amounts within 
-thirty (30) days after receipt of a detailed invoice from Supplier, along with any supporting 
-documentation as may be requested by Customer, including, at a minimum, with respect to 
-Services provided on a time and materials basis, a detailed description of the work performed, 
-the individuals performing the work, the hours of time worked by each such individual, and 
-the rates charged for each such individual. Unless previously agreed in writing by Customer, 
-no invoice provided to Customer by Supplier will include any amounts other than amounts 
-due for Services and Deliverables provided to and accepted by Customer before the date of 
-such invoice and Customer-authorized expenses incurred in providing such Services and 
-Deliverables.  
-
-Timely invoicing 
-
-Customer will have no obligation to pay any fees or expenses that Supplier fails to invoice to 
-Customer within sixty (60) days following the end of the monthly billing cycle in which such 
-fees and expenses were incurred or should have been billed. Within sixty (60) days of 
-termination or expiration of this Agreement or an SOW for any reason, Supplier will submit 
-to Customer a final itemized invoice for any unpaid fees and expenses theretofore accrued 
-under this Agreement or the applicable SOW, as applicable, and Customer will pay such 
-invoice, or the undisputed portion thereof, within the time period set forth in clause 4.2. 
 
 4.3 
 
-Taxes 
+4.4 
 
-Supplier will (i) pay and be solely responsible for any and all taxes, including income, 
-employment-related taxes or charges, incurred or due as a result of Supplier's performance 
-hereunder (excluding United States sales or use tax on Supplier's professional fees, if any, 
-which will be the responsibility of Customer, as well as taxes that may be imposed by taxing 
-authorities in jurisdictions outside of the United States (e.g., India, UK) where or from which 
-Supplier will provide the Services), and (ii) be responsible for all obligations, reports and 
-timely notifications relating to such matters. 
-
- 
 5. 
 5.1 
-
-Confidentiality 
-The Parties acknowledge that in the course of performing their obligations under this 
-Agreement, they may receive or otherwise become aware of Confidential Information, as 
-defined below, relating to the other Party.  "Confidential Information" means non-public 
-information that disclosing party ("Disclosing Party"), or any of its Affiliates, designates as 
-being confidential or which, under the circumstances surrounding disclosure the receiving 
-party ("Receiving Party") should know is treated as confidential by the Disclosing Party. 
-Confidential Information includes, without limitation, non-public information relating to 
-released or unreleased Disclosing Party software products, the marketing or promotion of any 
-Disclosing Party product, Disclosing Party's business policies or practices, financial 
-information, technical information, computer systems, infrastructure designs, data, analysis, 
-compilations, studies or other documentation and information received from others that 
-Disclosing Party is obligated to treat as confidential. Confidential Information disclosed to 
-Receiving Party by any Disclosing Party, its related entities and/or agents is covered by this 
-Agreement. Confidential Information shall not include any information that: (i) is or 
-subsequently becomes publicly available without Receiving Party's breach of any obligation 
-owed to Disclosing Party; (ii) became known to Receiving Party prior to Disclosing Party's 
-
- 
-
- 
-
-4 
- 
-
- 
 
 5.2 
 
 5.3 
 
-5.4 
-
-5.5 
-
 6. 
+6.1 
 
-disclosure of such information to Receiving Party; (iii) became known to Receiving Party 
-from a source other than Disclosing Party other than by the breach of an obligation of 
-confidentiality owed to Disclosing Party; or (iv) is independently developed by Receiving 
-Party without access to the Disclosing Party's information. 
+ 
 
-Receiving Party shall not use or disclose any Confidential Information to third parties without 
-the Disclosing Party's consent in writing, except as provided for by this Agreement or in 
-accordance with judicial or other governmental order (provided Receiving Party shall give 
-Disclosing Party reasonable notice prior to such disclosure and shall comply with any 
-applicable protective order or equivalent). Receiving Party shall safeguard the Confidential 
-Information. Receiving Party may disclose Confidential Information only to Receiving Party's 
-employees or consultants on a need-to-know basis, provided that Receiving Party ensures that 
-such employees and/or consultants comply with the confidentiality obligations of this 
-Agreement. Receiving Party may not reverse engineer, decompile or disassemble any 
-software disclosed to Receiving Party. 
+ 
 
-Receiving Party shall notify Disclosing Party immediately upon discovery of any 
-unauthorized use or disclosure of the Confidential Information or any other breach of this 
-Agreement by Receiving Party, and will cooperate with Disclosing Party in every reasonable 
-way to help Disclosing Party regain possession of the Confidential Information and prevent its 
-further unauthorized use.  
+ 
 
-Upon the request of the Disclosing Party, Receiving Party shall return all originals, copies, 
-reproductions and summaries of Confidential Information at Disclosing Party's request, or at 
-Disclosing Party's option, certify destruction of the same. If the Confidential Information is 
-stored electronically, then Receiving Party shall, where possible, permanently erase all 
-Confidential Information from its electronic source and communication systems and devices 
-used by it. Disclosing Party reserves the right to request the Receiving Party to confirm in 
-writing that it has complied with the obligations pursuant to this clause 5.4. 
+TERM AND TERMINATION 
+Term.  The  Term  of  this  Agreement  shall  commence  as  of  the  Effective  Date  and  shall  continue 
+thereafter  for  two  (2)  calendar  years.    The  Term  shall  automatically  renew  for  successive  one  (1) 
+calendar year unless terminated in accordance with the below termination clause. Each Statement of 
+Work  may  have  its  own  termination  provisions.  Notice  of  termination  or  termination  of  any 
+Statement of Work shall not be considered notice of termination or termination of this Agreement. 
+ 
+Termination for Convenience. Either party may terminate this Agreement without cause upon sixty 
+(60) days’ written notice to the other party.  
+ 
+Termination for Cause. Either party may terminate this Agreement at any time in  the event of the 
+following:  
+i. 
 
-Receiving Party acknowledges that monetary damages may not be a sufficient remedy for 
-unauthorized disclosure of Confidential Information and that Disclosing Party shall be entitled, 
-without waiving any other rights or remedies, to such injunctive and other equitable relief 
-(without bond and without the necessity of showing actual monetary damages) as may be 
-deemed proper by a court. 
+Immediately, if a voluntary arrangement is approved, a bankruptcy or administration order 
+is made or an administrative receiver is appointed over any of the other party's assets; an 
+undertaking  or  a  resolution  or  petition  to  wind  up  the  other  party  is  passed  or  presented 
+(other than for the purposes of amalgamation or reorganisation); and/or any circumstances 
+arise which entitle a court or a creditor to appoint an administrative receiver or to present a 
+winding-up petition or make a winding-up order in respect of the other party; or 
+Upon thirty (30) days’ notice of material breach of this Agreement if the notified Party fails 
+to cure such breach within such notice period. 
 
-Publicity 
-Neither Party will, without the other Party's prior written consent, use or permit the use of the 
-names, service marks and/or trademarks of the other Party or any Affiliate of the other Party, 
-or reveal the existence of this Agreement, any SOW or the terms thereof in any manner, 
-including in any advertising, publicity release, customer list or sales presentation, except as 
-required by law or for purposes of an audit by such Party's independent auditors. 
+ii. 
+
+ 
+Outcome of Termination. In the event of termination: 
+i. 
+ii. 
+iii. 
+
+Both parties shall return or destroy all Confidential Information of the other party; 
+Elevate shall deliver all Work Products to the Company in its then current form; and 
+The Company shall pay Elevate for all Services duly authorised by the Company and actually 
+performed by Elevate, including for any Work Products (whether complete or in draft form), 
+delivered  to  the  Company.  In  addition,  the  Company  shall  also  pay  for  any  approved 
+Expenses incurred by Elevate.  
+
+ 
+INTELLECTUAL PROPERTY 
+Company  Properties.  All  Company  Properties  shall  remain  the  sole  and  exclusive  property  of  the 
+Company. 
+ 
+Elevate Properties. Elevate Properties shall remain the sole and exclusive property of Elevate. Elevate 
+retains all rights, copyright, patent and other intellectual property rights in such Elevate Properties. 
+Elevate  may  use,  modify,  disclose  or  otherwise  commercially  exploit  Elevate  Properties  for  other 
+clients. If any Elevate Properties is used in any Work Product: 
+ 
+i. 
+ii. 
+
+Such Elevate Property shall remain the property of Elevate; and 
+Subject  to  full  payment  for  the  Work  Product  by  the  Company,  Elevate  grants  a  non-
+exclusive,  perpetual  and  royalty  free  license  to  the  Company  use  the  Elevate  Properties 
+incorporated in Company Properties. 
+
+ 
+Third Party Properties. Nothing herein shall cause or imply any sale, license or other transfer of third 
+party software or products from one party to the other. 
+ 
+CONFIDENTIALITY 
+Elevate  executed  a  Confidentiality  Deed  Poll  on  4  October  2017;  the  terms  of  this  Deed  Poll  form 
+part of this Agreement and will continue to apply to all Confidential Information provided to Elevate 
+
+3 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+
+ 
+6.2 
+
+6.3 
+
+6.4 
+
+ 
+6.5 
+
+ 
+6.6 
 
 7. 
 7.1 
 
-Change Orders 
-A Statement of Work Change Order may be initiated for any of the following reasons and is 
-required for the Supplier to continue Services beyond any estimate provided in any SOW: 
-
-(a) 
-
-(b) 
-
-(c) 
-
-The invalidation of any of the assumptions specified in the related Statement of Work. 
-
-Failure of Customer to meet their Customer Responsibilities specified in the 
-Statement of Work 
-
-Changes in the description of work or Deliverables requested by Customer and agreed 
-to by Supplier in the Statement of Work. 
+ 
 
  
 
  
 
-5 
+by  the  Company.  To  the  extent  of  any  inconsistency,  the  terms  of  the  Deed  Poll  prevail  over  this 
+Agreement.  
+
+Confidentiality  Obligations.  Confidential  Information  may  be  disclosed  in  writing,  orally  or  visually. 
+The Receiver shall: 
+i. 
+
+Maintain the Confidential Information of the Discloser in confidence using the same degree 
+of care as it uses to maintain its own confidential information of like nature, but no less than 
+a reasonable degree of care; 
+Disclose  Confidential  Information  to  its  employees,  associates,  affiliates,  subsidiaries  and 
+subcontractor only on a need to know basis; and 
+Ensure  that  the  person  receiving  Confidential Information knows  of  its  confidential nature 
+and  has  executed  a  confidentiality  agreement  with  similar  confidentiality  obligations  with 
+the Receiver. 
+
+ii. 
+
+iii. 
+
+ 
+Exclusions  to  Confidential  Information.  The  following  types  of  information,  however  marked,  shall 
+not be considered as Confidential Information. Information that: 
+i. 
+ii. 
+iii. 
+
+Is, or becomes, publicly available without a breach of this Agreement; 
+Was lawfully known to the Receiver without an obligation to keep it confidential;   
+Is  received  from  another  source  who  can  disclose  it  lawfully  and  without  an  obligation  to 
+keep it confidential; or 
+Is independently developed. 
+
+iv. 
+ 
+Unauthorised  Use  of  Confidential  Information.  In  the  event  the  Receiver  becomes  aware  of  any 
+attempted  or  actual  unauthorised  use,  possession,  knowledge  or  dissemination  of  Confidential 
+Information, the Receiver shall: 
+i. 
+
+Promptly  notify  the  Discloser  of  the  event  with  sufficient  details  to  allow  the  Discloser  to 
+investigate the event; 
+Assist the Discloser in its investigation and any ensuing litigation; 
+Assist the Discloser in recovering the Confidential Information; and 
+Put in place all mutually agreed additional security and other measures that is required to 
+protect the Confidential Information from similar events. 
+
+ii. 
+iii. 
+iv. 
+
+ Legal Disclosures. Receiver may disclose Confidential Information if required to comply with a court 
+order  or  other  government demand  that  has  the force of  law.  In  the  event  of  such  disclosure,  the 
+Receiver: 
+i. 
+
+Shall inform the Discloser of such court or government order to allow the Discloser sufficient 
+time to seek a protective order; 
+Shall support the Discloser in seeking the protective order; and 
+Disclose only such portions of the Confidential Information as legally required. 
+
+ii. 
+iii. 
+
+Injunctive Relief. The parties acknowledge that in the event of a breach or threatened breach of any 
+confidentiality obligations, monetary damages may not be an adequate remedy and the parties will 
+be entitled to an injunctive relief against such breach. 
+ 
+REPRESENTATIONS AND WARRANTIES 
+Company Representations and Warranties. The Company represents and warrants that it has: 
+i. 
+
+ All  rights,  titles  or  interests  in  Company  Properties  as  required  for  performance  of  its 
+obligations under this Agreement; and 
+The authority and the legal right to permit Elevate to perform the Services described in this 
+Agreement or any SOW. 
+
+ii. 
+
+4 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
  
 
-7.2 
+7.2 
+
+7.3 
+
+7.4 
+
+7.5 
 
 8. 
 8.1 
 
+ 
+
+ 
+
+ 
+
+ 
+Elevate Representations and Warranties. Elevate represents and warrants that: 
+i. 
+
+It  has  all  rights,  title  or  interest  in  Elevate  Properties  required  for  performance  of  its 
+obligations under this Agreement; 
+It has the legal authority to provide the Services described in this Agreement or any SOW; 
+and 
+The Services provided under this Agreement or any SOW will be: 
+(a) 
+
+provided  with  professional  care  and  skill  and  technical  knowledge,  and  taking  all 
+steps to avoid loss or damage;  
+delivered within a reasonable time if no time frame is agreed; and  
+performed  by  trained  professionals  in  accordance  with  the  agreed  specifications 
+and all applicable industry standards. 
+
+ii. 
+
+iii. 
+
+(b) 
+(c) 
+
+Any claims related to breach of Elevate’s representation or warranty must be made in writing, within 
+ninety (90) days of completion of Services or the related Work Products. Elevate shall have thirty (30) 
+working days from the receipt of such notice to remedy the breach, failing which, the Company shall 
+have the right to terminate the relevant SOW relating to the Services or Work Product in accordance 
+with Section 4.3 of this Agreement. 
+  
+No Other Warranty. EXCEPT AS PROVIDED IN THIS SECTION 7, ELEVATE MAKES NO REPRESENTATION 
+OR WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, FROM A COURSE OF PERFORMANCE 
+OR DEALING, TRADE USAGE OR OF UNINTERRUPTED OPERATION WITHOUT ERROR, INCLUDING BUT 
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE. ELEVATE MAKES NO GUARANTEES WITH REGARD TO THE RESULTS OBTAINED FROM THE 
+OPERATION  OR  USE  BY  THE  COMPANY  OF  THE  WORK  PRODUCTS  OR  ELEVATE  PROPERTIES.  THE 
+LIMITED WARRANTIES SET FORTH IN THIS AGREEMENT ARE MADE FOR THE BENEFIT OF THE ALLENS 
+GROUP ONLY AND NOT FOR THE BENEFIT OF ANY THIRD PARTY. 
+ 
+Limitation  of  Damages.  EXCEPT  FOR  THE  INDEMNIFICATION  AND  CONFIDENTIALITY  OBLIGATIONS 
+SET FORTH IN THIS AGREEMENT, NEITHER PARTY SHALL HAVE ANY LIABILITY TO THE OTHER PARTY 
+WHATSOEVER  FOR  CONSEQUENTIAL,  INDIRECT,  EXEMPLARY,  INCIDENTIAL  OR  PUNITIVE  DAMAGES 
+OF  ANY  KIND,  INCLUDING  WITHOUT  LIMITATION,  FOR  LOSS  OF  PROFIT,  REVENUE  OR  BUSINESS, 
+EVEN IF ELEVATE HAS BEEN ADVISED OF POSSIBILITY OF SUCH DAMAGES. 
+ 
+Limitation  of  Liability.  EXCEPT  FOR  THE  INDEMNIFICATION  OR  CONFIDENTIALITY  OBLIGATIONS  SET 
+FORTH IN THIS AGREEMENT, EACH PARTY’S LIABILITY TO THE OTHER PARTY FOR ANY REASON AND 
+UPON ANY CAUSE OF ACTION, WHETHER IN TORT, CONTRACT, OR ANY OTHER LEGAL THEORY, SHALL 
+AT ALL TIMES AND IN THE AGGREGATE BE LIMITED TO THE AMOUNT OF THE FEES OR COMMISSION  
+ACTUALLY PAID BY THE COMPANY TO ELEVATEUNDER THE STATEMENT OF WORK RELATING TO THE 
+CAUSE  OF ACTION,  PROVIDED  THAT  SUCH LIABILITY  SHALL NOT EXCEED  THE  TOTAL  OF  SUCH  FEES 
+PAID DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT UPON WHICH LIABILITY IS 
+PREDICATED. 
+ 
+INDEMNIFICATION 
+Either party (“Indemnitor”) shall indemnify and hold harmless the other party, its affiliates, directors, 
+agents and employees (“Indemnitee”) against all claims, losses, damages or expenses arising out of 
+or in relation to:  
+i. 
+ii. 
+
+Willful misconduct or gross negligence of the Indemnitor; 
+Damage to property, death or personal injury caused by acts or omissions of the Indemnitor; 
+and /or  
+Breach of confidentiality obligations. 
+
+iii. 
+
+5 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+
+8.2 
+
 9. 
 9.1 
 
- 
-
-(d) 
-
-(e) 
-
-Delays in performing the Services caused by factors outside of Supplier's direct 
-control. 
-
-The occurrence of any other event or the discovery of any other information that 
-affects Supplier's ability to complete the Services as specified in the Statement of 
-Work. 
-
-Any other mutually agreeable reason. 
-
-(f) 
-The remedy to any of the above may include changes to: the composition of the personnel 
-performing the Services, duration, delivery schedule, pricing, and scope of the Services and/or 
-deliverables. All Change Orders shall be in writing and executed by both parties prior to the 
-Services being performed. 
-
-Insurance 
-During the term of this Agreement Supplier shall, at its own expense, purchase and maintain 
-Commercial General Liability insurance as will protect Supplier and Customer from any and 
-all claims for damages due to bodily injury, personal injury, or property damage arising in 
-connection with the Agreement hereunder. Supplier agrees to provide Customer with 
-sufficient proof of General Liability insurance and Workers Compensation insurance upon 
-reasonable written request by Customer. 
-
-Acceptance 
-Unless otherwise specified in an SOW, the following procedure shall be used for Acceptance 
-of the Services. The final version of the Deliverables, as detailed in the SOW, will be 
-presented to Customer for acceptance, for a period of five (5) business days following 
-delivery (the "Acceptance Period"). During the Acceptance Period, Customer will review the 
-Deliverables to ensure that such Deliverables substantially meet the criteria mutually 
-documented in the SOW ("Acceptance Criteria"). If, within the Acceptance Period, 
-Customer believes the Deliverables fail to meet the Acceptance Criteria, it will provide 
-Supplier with a written deficiencies list which describes in detail how the Deliverables fail to 
-meet the Acceptance Criteria. In the event the Customer fails to review the Deliverables 
-within the Acceptance Period, the Deliverables will be deemed accepted. If a deficiencies list 
-is presented, the Parties will mutually agree upon the Corrective Action required to cause the 
-deliverables to meet the foregoing Acceptance Criteria. Supplier will resubmit the 
-Deliverables for acceptance following such corrective action and Customer shall have an 
-additional Acceptance Period to determine if the Acceptance Criteria has been met. Unless the 
-deficiency is a direct result of Customer's actions or failure to act, the Corrective Action shall 
-be completed at Supplier's expense. 
-
-Proprietary information 
+9.2 
 
 10. 
-10.1  The term "Works" means ideas, inventions, discoveries, processes, methods, designs, know-
-how, strategies, techniques, formulas, specifications, computer programs including software 
-(in source and object code forms), firmware and related operating instructions and 
-documentation, trademarks, service marks, and work products and works of authorship of all 
-kinds, including notes, reports, memoranda, writings, plans, outlines, research, data, figures, 
-descriptions, drawings, diagrams, charts, sketches, patterns, compilations, lists, surveys, 
-interview guides and recordings (in each case, in any form or medium and whether or not 
-patentable or reduced to practice). 
+10.1 
 
-10.2  Customer will own exclusively all right, title and interest in all materials, including any 
-results or work product, developed, in whole or in part, by or on behalf of Supplier in the 
-performance of Services as specified in any applicable SOW, including all U.S. and foreign 
+10.2 
+
+ 
+10.3 
+
+  
+10.4 
+
+ 
+10.5 
+
+  
 
  
 
  
+
+ 
+
+ 
+
+In addition to the above, Elevate shall hold the Company harmless against all claims, losses, damages 
+or expenses arising out of or in relation to any infringement or allegations of infringement by a third 
+party  that  any  Work  Product  or  Elevate  Properties  infringe  or  is  likely  to  infringe  a  third  party’s 
+intellectual property rights, moral rights or other proprietary rights. 
+ 
+EMPLOYEE SOLICITATION AND HIRING 
+During the period of time stated below, each party and its affiliates / subsidiaries (“Restricted Party”) 
+agree not to offer employment to or hire any employee of the other party and its Affiliates (“Current 
+Employer”)  who  is  or  was  associated  with  the  sale,  delivery  or  receipt  of  Services,  or  otherwise 
+becomes  known  to  the  Restricted  Party  as  a  result  of  Services  performed  or  contemplated 
+hereunder,  without  the  prior  written  consent  of  the  Current  Employer.    This  restriction  shall 
+commence as of the Effective Date and end twelve (12) months after the expiration or termination 
+of this Agreement. 
+
+ 
+
+For  purposes  of  this  provision,  the  terms  “employment”  and  “employee”  shall  include  any  form  of 
+employment,  consulting,  contract  relationship,  or  other  arrangement  pursuant  to  which  such 
+individual performs or performed services for the Restricted Party or Current Employer. 
+ 
+MISCELLANEOUS 
+Subcontract. Elevate shall have the right to subcontract, with the consent of the Company (not to be 
+unreasonably  withheld),  all  or  portions  of  any  Services  under  this  Agreement  to  any  Affiliate  of 
+Elevate.  The  parties  may  not  subcontract  any  obligation  under  this  agreement  to  any  other  third 
+party without the express consent of the other party. 
+ 
+Compliance  with  Applicable  Laws.  Each  party  shall  at  all  times  comply  with  all  applicable  federal, 
+state, local and regulatory laws, rules and regulations that it is required to comply with, in relation to 
+this Agreement and any SOW. 
+
+Independent Contractor Relationship.  Elevate  shall  be  an  independent  contractor  of  the  Company. 
+Nothing  in  this  Agreement  is  intended  or  shall  be  construed  as  creating  a  joint  venture,  agency, 
+partnership  or  employer/employee  relationship,  or  any  legal  or  equitable  relationship  other  than 
+that of customer and independent contractor. Elevate shall have exclusive control over the manner 
+in which Services are provided.  
+
+Taxes. Elevate acknowledges that it and its personnel are independent contractors for purposes of 
+income tax withholding and employment taxes.  Elevate assumes full responsibility for the acts and 
+compensation  of  Elevate’s  personnel  and  Elevate  agrees  that  it  currently  and  will  continue  to 
+withhold  and remit  all  necessary  federal  and  state  income  taxes  related  to  its  personnel.   Elevate, 
+and not the Company, is solely responsible for withholding income and payroll taxes and for verifying 
+the  work  eligibility  of  each  person  performing  services  hereunder,  including  the  completion  and 
+maintenance  of  Form  I-9.    Elevate  will  indemnify,  defend,  and  hold  harmless  the  Company,  its 
+officers,  directors  and  employees  harmless  from  and  against  all  losses,  damages,  and  expenses 
+(including  reasonable  attorney  fees)  from  an  assessment  against  the  Company  of  withholding  or 
+employment taxes including interest and penalties thereon related to Elevate’s personnel. 
+
+Insurance.  Elevate  will  obtain  and  maintain  General  Liability  Insurance,  Automobile  Liability 
+Insurance,  Workers’  Compensation  Insurance,  Employer’s  Liability  Insurance,  Errors  and  Omissions 
+Insurance (Professional Liability Coverage), including contractual liability coverage where applicable.  
 
 6 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
+ 
+ 
+10.6 
+
+10.7 
+
+10.8 
+
+ 
+10.9 
+
  
 
- 
+ 
 
-copyright, patent and other intellectual property rights therein, including all partial or 
-incomplete versions thereof (collectively, "Deliverables") 
+ 
 
-10.3  Except as expressly specified below, Supplier will and hereby does, irrevocably, in perpetuity 
-and without further consideration, assign to Customer (and its successors and assigns) all right, 
-title and interest that Supplier has or may have in the future anywhere in the world in or to 
-each of the Deliverables, including all U.S. and foreign patent, copyright and other intellectual 
-property rights therein. In the case of Deliverables that are derivatives of any of supplier's 
-works ("Supplier's Works"), right, title and ownership of the Deliverables extends exclusively 
-to the modifications, additions, enhancements or other changes developed, in whole or in part, 
-by or on behalf of Supplier in the Deliverables as specified under an applicable SOW and 
-does not include the underlying Supplier Works. For avoidance of doubt, Supplier Works 
-shall remain the sole and exclusive property of the Supplier. Supplier retains all rights, 
-copyright, patent and other intellectual property rights in such Supplier Works. Supplier may 
-use, modify, disclose or otherwise commercially exploit Supplier Works for other clients. 
+Publicity. Neither party shall make any public announcements or otherwise communicate with any 
+news or industry media with respect to the Agreement nor the transactions contemplated hereunder 
+without the prior approval of the other party.  
+ 
+Force Majeure. Either party shall be excused from performance under this Agreement and shall not 
+be  liable  for  any  delay  in  whole  or  in  part,  caused  by  the  occurrence  of  an  event  beyond  either 
+party’s reasonable control. These events include, but are not limited to, natural disasters and severe 
+weather conditions, war, sabotage, riots, accidents, fires and explosions. In the event of continued 
+force majeure for over thirty (30) days, the parties may exercise their right to terminate the affected 
+SOW  for  convenience.  Force  majeure  event  shall  not  affect  any  payment  obligation  under  this 
+Agreement or a SOW. 
+ 
+Assignment.  No  assignment  of  this  Agreement  by  either  party  shall  be  valid  unless  authorised  in 
+writing by the other party. 
 
-10.4  To the extent Supplier's Works are incorporated into the Deliverables, Supplier hereby grants 
+Notices. Notices may be provided either by electronic or physical mail and shall be effective on the 
+date  of  receipt  of  notice.  The  parties  designate  the  below  persons  to  receive  notices.  Either  party 
+may specify changes by giving notice to the other: 
 
-to the Customer  a perpetual, irrevocable, worldwide, fully-paid up, royalty-free, non-
-exclusive, non-transferable (except to the Customer's successors and assigns) right and license 
-to use such Supplier Works for the internal business purposes of Customer solely in 
-connection with such Deliverables. Such license shall be extended to all Customer Affiliates. 
-Customer assumes all liability for Customer Affiliate's use of such Supplier Works. 
+COMPANY 
 
-10.5  Nothing in this Agreement shall prohibit or limit either party's use of Works (i) previously 
+ELEVATE 
 
-known to it, (ii) independently developed by it, or (iii) which is or becomes publicly available 
-through no breach of this Agreement. 
+Name: Zane Turner 
+Designation: Co-General Counsel 
+Address:  Level  28,  Deutsche  Bank 
+Place,  126  Philip  Street,  Sydney,  NSW 
+2000 
+Email: zane.turner@allens.com.au 
+Name: Rod Fielding 
+Designation: COO & CFO  
+Address:  Level  28,  Deutsche  Bank 
+Place,  126  Philip  Street,  Sydney,  NSW 
+2000 
+Email: rod.fielding@allens.com.au 
+ 
 
-Indemnity and liability 
+Name:              Daniel R. Coll 
+Designation:  VP, General Counsel 
+Address:  
+ 
 
-11. 
-11.1  Either Party (“Indemnitor”) will indemnify and hold harmless the other Party and its Affiliates, 
+10250 Constellation Blvd., Suite 2815 
+Los Angeles, CA 90067 
 
-and their respective partners, officers, directors, employees and agents (each, an 
-"Indemnified Person") from and against any and all claims, demands, suits and other 
-proceedings ("Claims"), and will pay as incurred all related liability, losses, damages, 
-judgments, settlements, costs and expenses (including reasonable attorneys' fees) (collectively, 
-"Losses") arising from or relating to any actual: (a) breach of any of its obligations under 
-clause 5; (b) Willful misconduct or gross negligence of the Indemnitor. In addition to the 
-above, Supplier shall hold Customer harmless against all Losses arising out of or in relation to 
-infringement or misappropriation of any third party's trade secrets, proprietary information, 
-trademark, copyright, patent rights or other property rights relating to or in connection with 
-Supplier's performance of its obligations under this Agreement or any SOW, or the Services, 
-Developed Works or other Deliverables or Supplier Works. Indemnitor will be given prompt 
-notice of each Claim and each Indemnified Person will reasonably cooperate, at Supplier's 
-expense, with such defence. The foregoing indemnity does not cover infringement Claims to 
-the extent resulting from: (i) modifications to the Services, or other Deliverables that are made 
-by Customer without Supplier's approval or awareness; or (ii) infringement caused by 
-materials provided by Customer (in the form provided by Customer) for Supplier to provide 
-the Services. No settlement or compromise that imposes any liability or obligation on any 
-Indemnified Person will be made without the Indemnified Person’s prior written consent. 
+daniel.coll@elevateservices.com 
 
-11.1(a)  Remedies for IP Infringement. Without prejudice to Customer’s other rights and/or remedies    
+Email:  
+Name:              James Odell 
+Designation:  MD Australia & APAC 
+Address:  
+                          Sydney, NSW 2000 
 
-under this Agreement, if a temporary or permanent injunction is obtained against Customer's 
-use of any element of the Deliverables or software resulting from a Claim or if such becomes 
-the subject of a Claim, Supplier shall, at Supplier’s option and Supplier’s expense, promptly: 
-(i) procure for Customer the right to continue using the element of the Deliverables or 
-software; or (ii) replace or modify such so that it becomes non-infringing while maintaining at 
+Level 3, 44 Martin Place 
 
+ 
+
+Email:  
+
+james.odell@elevateservices.com 
+
+10.10  No Waiver. Any delay or failure to exercise a right or remedy will not result in a waiver of that right 
+
+or remedy. 
+ 
+Integration, Modification and Severability. 
+i. 
+
+10.11 
+
+ii. 
+iii. 
+
+This  Agreement  includes  the  Confidentiality  Deed  executed  by  Elevate  and  any  SOW(s) 
+entered  into  by  both  parties;  these  documents  form  the  entire  agreement  between  the 
+parties  regarding  its  subject  matter.    It  replaces  all  prior  agreements  and  representations 
+regarding its subject matter. 
+This Agreement can be changed only by an amendment signed by both parties. 
+If any term or provision of this Agreement is found by a court of competent jurisdiction to be 
+invalid,  illegal  or  otherwise  unenforceable,  such  term  or  provision  will  be  modified  to  the 
+extent necessary in the court's opinion to render such term or provision enforceable.  This 
+term or provision will not affect the other terms or provisions thereof or the whole of the 
+Agreement. 
+ 
+
+10.12 
+
+ Survival. Sections 6, 7, 8 and 9 shall survive the expiration or termination of this Agreement. 
  
 
  
 
 7 
- 
 
- 
-
-least the same level of functionality and performance, including compatibility.  If Supplier is 
-unable to take either of the foregoing actions, Supplier shall promptly refund, on a pro-rata 
-basis, to Customer any amounts paid to Supplier pursuant to this Agreement for the period 
-during which such element of the Deliverables or software was not provided. 
-
-11.2 
-
-Indemnitor will indemnify and hold harmless each Indemnified Person from and against any 
-and all Claims, and will pay as incurred all Losses arising from or relating to any personal 
-injury (including death) and for damage, destruction or loss to or of any and all real or 
-personal property, caused by the Indemnitor or Indemnitor personnel, except if and to the 
-extent caused by the gross negligence or willful misconduct of an Indemnified Person. 
-
-11.3  EXCEPT AS OTHERWISE PROVIDED IN CLAUSE11.5, NEITHER PARTY WILL BE 
-
-LIABLE FOR SPECIAL, CONSEQUENTIAL, INDIRECT, EXEMPLARY OR PUNITIVE 
-DAMAGES (INCLUDING LOSS OF PROFITS, BUSINESS REVENUE, GOODWILL OR 
-ANTICIPATED SAVINGS) HOWEVER CAUSED, WHETHER IN CONTRACT, TORT 
-(INCLUDING NEGLIGENCE) OR ANY OTHER LEGAL OR EQUITABLE THEORY, 
-AND EVEN IF FORESEEABLE. 
-
-11.4  Except as otherwise provided in clause 11.5, the total  liability of Supplier for claims arising 
-out of or relating to this Agreement, regardless of the form of action or the theory of recovery 
-(including without limitation negligence), will be limited to $1m per SOW. 
-
-11.5  The exclusions and limitations set forth above in clause 11.3 and 11.4 will not apply  with 
-
-respect to: (a) Losses arising out of either Party's fraud, willful misconduct, or gross 
-negligence; (b) claims that are subject to indemnification under clause 11.1 or 11.2; (c) any 
-breach of clause 5; (d) Losses arising out of damage or loss of real or personal property or 
-personal injury (including death); and (e) Supplier's wrongful termination of this Agreement 
-or any SOW. 
-
-12.  Warranty 
-12.1 
-
-Supplier represents and warrants as follows: 
-
-(a) 
-
-(b) 
-
-(c) 
-
-(d) 
-
-(e) 
-
-Authority: (i) Supplier has full power to enter into this Agreement, to carry out its 
-obligations under this Agreement and to grant the rights, licenses and sublicense 
-granted in this Agreement; and (ii) Supplier's compliance with the terms and 
-conditions of this Agreement will not violate any foreign, federal, state or local laws, 
-regulations or ordinances or any third party agreements. 
-
-Conformity: All Deliverables will be and remain in compliance with all of the 
-requirements of this Agreement and the applicable SOW ("Compliance"). 
-
-Quality: Supplier will perform all Services in a good, workmanlike, efficient, timely 
-and professional manner using qualified personnel fully familiar with the underlying 
-technology or business processes, in Compliance and in accordance with all 
-applicable laws, regulations, orders and decrees. 
-
-Infringement: Neither the Services nor the Deliverables will infringe or 
-misappropriate any patent, trademark, trade name, service mark, copyright, trade 
-secret or other intellectual property right of any third party. 
-
-Unauthorized code: The Services and Deliverables will be free of any time bomb, 
-viruses, trap doors, back doors or other code that destroys, erases, damages or 
-otherwise disrupts the normal operation of the Deliverables or other programs, 
-hardware or systems utilized by Customer and/or Customer Affiliates, or allows for 
-unauthorized access to the Deliverables or other programs, hardware or systems 
-utilized by Customer Affiliates. Except as expressly specified in the applicable SOW, 
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
 
  
+
+ 
+ 
+ 
+10.13  Governing Law. This Agreement shall be construed and enforced in accordance with the laws of the 
+State  of  New  South  Wales  regardless  of  the  laws  that  might  otherwise  govern  under  applicable 
+choice-of-law  principles.    The  parties  consent  to  the  jurisdiction of  the  courts  of  New  South Wales 
+with  respect  to  any  legal  proceedings  that  may  result  from  a  dispute  as  to  the  interpretation  or 
+breach of any of the terms and conditions of this Agreement. 
+ 
+
+10.14  Counterparts. This Agreement may be executed in counterparts, and signatures exchanged by 
+
+11. 
+
+facsimile or other electronic means are effective for all purposes hereunder to the same extent as 
+original signatures. 
+ 
+BENEFIT 
+While Allens Operations Pty Ltd (ACN 87 004 992 607) is the party entering into this Agreement Elevate 
+acknowledges and agrees that the products and services to be provided under this Agreement can be 
+used by the Allens Group and any officers, employees, agents or contractors of any of the Allens Group, 
+subject at all times to the terms of this Agreement. 
+
+ 
+ 
+Agreed and accepted: 
+
+ 
+
+Signature: 
+ 
+ 
+ 
+Name: 
+Title: 
+Date: 
+ 
+
+Signature: 
+ 
+ 
+ 
+Name: 
+Title: 
+Date: 
+
+Company 
+
+Elevate 
+
+Company 
+
+Signature: 
+ 
+ 
+ 
+Name:  
+Title:  
+Date: 
+
+Signature: 
+ 
+ 
+ 
+Name:  
+Title:  
+Date: 
+
+James Odell 
+MD Australia & APAC 
+
+Elevate 
+
+Daniel R. Coll 
+Attorney 
 
  
 
 8 
- 
 
- 
-
-(f) 
-
-(g) 
-
-the Deliverables will be free of all materials commonly known as "open source" or 
-"shareware" materials. 
-
-No inducements: Supplier has not provided, and will not provide, to any Customer 
-and/or Customer Affiliate personnel or contractor any gift, gratuity, service or other 
-inducement or favor to influence or reward that personnel or contractor in connection 
-with any SOW. 
-
-Compliance with laws: Supplier is and will remain in compliance with all laws 
-applicable to the provision, receipt and use of the Services and Deliverables, and will 
-identify and procure all applicable permits, certificates, approvals and inspections 
-required under all laws. If a charge of non-compliance by Supplier with any law 
-occurs that impacts or is likely to impact Supplier's performance under this 
-Agreement, Supplier will promptly notify Customer of such charge. Supplier will be 
-fully responsible for all costs and expenses resulting from changes in laws applicable 
-to the Services or the performance of Supplier's obligations under this Agreement or 
-an applicable SOW and will notify Customer of such laws and changes in laws to the 
-extent they relate to the provision, receipt or use of the Services or any Deliverable. 
-
-12.2 
-
-Supplier will and hereby does assign to Customer all warranties, representations and 
-indemnities granted to Supplier in respect of the Services and Deliverables, and any other 
-Works provided hereunder, and all remedies for breach of the foregoing, to the extent not 
-prohibited by Supplier's agreements with third parties. 
-
-12.3 
-
-Supplier will conform to the Security and Disaster Recovery policies and practices as set forth 
-in Exhibit A. 
-
-12.4  To the extent that Supplier obtains access to, or receives information relating to, an identified 
-
-or identifiable natural person, Supplier will conform to the Data Privacy and Data Security 
-Terms as set forth in Exhibit B. 
-
-12.5  EXCEPT AS EXPRESSLY SET FORTH ABOVE OR IN ANY SOW, CUSTOMER 
-AND SUPPLIER MAKE NO OTHER REPRESENTATION OR WARRANTY AND 
-DISCLAIM ALL IMPLIED WARRANTIES, FROM A COURSE OF PERFORMANCE OR 
-DEALING, TRADE USAGE OR OF UNINTERRUPTED OPERATION WITHOUT 
-ERROR,  WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
-PARTICULAR PURPOSE. THE LIMITED WARRANTIES SET FORTH IN THIS 
-AGREEMENT ARE MADE FOR THE BENEFIT OF CUSTOMER ONLY AND NOT FOR 
-THE BENEFIT OF ANY THIRD PARTY. 
-
-13.  Miscellaneous 
-13.1  Any notice or other communication required or permitted hereunder shall be given in writing 
-
-to the other party at the address listed below, or at such other address as shall be given by 
-either party to the other in writing. Such notice shall be deemed to have been given when 
-delivered personally or when sent via certified mail or courier: 
-
-To Customer: 
-
-Baker & McKenzie Global Services LLC 
-300 East Randolph Street, Suite 4300 
-Chicago, IL 60601 
-
-Attn: Procurement Director 
-
-To Supplier: 
-Elevate Services, Inc. 
-10250 Constellation Blvd., Suite 2815 
-Los Angeles, CA 90067 
-
-Attn: VP, General Counsel 
-
-13.2  This Agreement and any related Statements of Work constitutes the entire Agreement 
-
-between the parties related to this transaction and any course of prior dealings, promise or 
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909October 16, 2017October 16, 2017October 16, 2017MrRod FieldingChief Knowledge OfficerRachel O’ConnorOctober 16, 2017 
 
  
 
  
+Elevate Services Australia, Pty. Ltd. 
+Level 3, 44 Martin Place, Sydney, NSW 2000 
+ACN: 167 311 382 
 
-9 
  
 
- 
+Exhibit A 
 
-conditions in connection therewith or usage of trade not incorporated herein shall not be 
-binding upon either party. No waiver, assignment, subcontracting, amendment, or 
-modifications of any of the provisions hereof shall be binding unless made in writing and 
-signed by the parties hereto. 
+Statement of Work [Number]  
 
-13.3  This Agreement shall be governed, and the terms and conditions herein construed according 
+ 
+THIS STATEMENT OF WORK NUMBER [INSERT NUMBER] (the "SOW") between Allens Operations Pty Ltd 
+(ABN: 87 004 992 607) (the "Company") and Elevate Services Australia, Pty. Ltd. (“Elevate”) is pursuant to 
+and a part of the MASTER SERVICES AGREEMENT between the parties dated [DATE] (the “Agreement”). 
+ 
+Unless otherwise specified, terms defined in the Agreement shall have the same meanings when used in 
+this SOW. 
+ 
+1. 
 
-to the laws of the State of New York. Unless otherwise mutually agreed to in writing, all 
-judicial proceedings related to this Agreement and the rights and obligations arising therefrom 
-shall be initiated in a court sitting in New York. 
+DESCRIPTION OF THE SERVICES 
+ 
+WORK PRODUCTS 
 
-13.4 
+2. 
+ 
+3. 
+ 
+4. 
 
-If the scope of any of the provisions of this Agreement is too broad in any respect whatsoever 
-to permit enforcement to its full extent, then such provisions shall be enforced to the 
-maximum extent permitted by law, and the parties hereto consent and agree that such scope 
-may be judicially modified accordingly and that the whole of such provisions of this 
-Agreement shall not thereby fall, but that the scope of such provisions shall be curtailed only 
-to the extent necessary to conform to law. 
+ 
+5. 
+5.1 
 
-13.5  Headings used in this Agreement are for reference purposes only and shall not be deemed a 
+5.2 
 
-part of this Agreement. 
+ 
+6. 
+6.1 
 
-13.6 
+ 
+7. 
 
-Failure of a Party to insist upon strict performance of any provision of this Agreement shall 
-not constitute a waiver of any of the provisions of this Agreement or any subsequent or 
-continuing breach thereof or of the right of such party at any time thereafter to require exact 
-and strict compliance with the provisions of this Agreement. 
-
-EMPLOYEE SOLICITATION AND HIRING 
-
-14. 
-14.1  During the period of time stated below, each party and its affiliates / subsidiaries (“Restricted 
-
-Party”) agree not to offer employment to or hire any employee of the other party and its 
-Affiliates (“Current Employer”) who is or was associated with the sale, delivery or receipt of 
-Services, or otherwise becomes known to the Restricted Party as a result of Services 
-performed or contemplated hereunder, without the prior written consent of the Current 
-Employer.  This restriction shall commence as of the Effective Date and end twelve (12) 
-months after the expiration or termination of this Agreement. 
-
-14.2 
-
-For purposes of this provision, the terms “employment” and “employee” shall include any 
-form of employment, consulting, contract relationship, or other arrangement pursuant to 
-which such individual performs or performed services for the Restricted Party or Current 
-Employer. 
+  
+8. 
 
  
  
 
  
 
-[Signature Page Follows]
+ELEVATE PROPERTIES AND COMPANY PROPERTIES 
+
+TERM OF SOW 
+This  SOW  shall  be  effective  as  of  ___________  (the  “Effective  Date”)  and  shall  continue  until 
+terminated by either party in accordance with the Agreement. 
+
+FEES 
+Fees. [Details of fees paid against Work Products or services] 
+ 
+Payment. Unless otherwise stated in this SOW, the standard invoicing terms as provided in the 
+Agreement shall apply to this SOW. 
+
+RESOURCES 
+[Details  of  resources  to  be  provided  only  if  on  a  dedicated  basis  or  details  of  hours  to  be 
+dedicated to creation of Work Product or provision of Services.] 
+
+LOCATION 
+[Add location of performance of Services] 
+
+ADDITIONAL TERMS 
+[Add as required] 
+ 
+This Statement of Work shall be attached to and incorporated into the Agreement, and is subject 
+to all the terms and conditions of the Agreement. In the event of any conflict, the terms of the 
+Agreement shall prevail, except for any Services related or transactional detail, wherein the 
+provisions of this Statement of Work shall prevail. 
+
+1 
+
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909 
 
  
 
-10 
+ 
+ 
+ 
  
 
-Execution 
-In witness whereof, the parties hereto have caused this Master Service Agreement to be executed by 
-their respective duly authorized representatives as of the date first above written. 
+Agreed and accepted: 
+ 
 
-Baker & McKenzie Global Services LLC 
+Company 
 
-Supplier 
+Elevate 
 
-By: 
-
+Signature: 
+ 
+ 
+ 
 Name: 
-
 Title: 
-
 Date: 
  
 
+Signature: 
+ 
+ 
+ 
+Name: 
+Title: 
+Date: 
+ 
+ 
  
 
-  By: 
+Company 
+
+Signature: 
+ 
+ 
+ 
+Name:  
+Title:  
+Date: 
+
+Signature: 
+ 
+ 
+ 
+Name:  
+Title:  
+Date: 
 
  
 
-Mr. Daniel Surowiec  
+ 
 
-  Name: 
+James Odell 
+MD Australia & APAC 
+
+Elevate 
 
 Daniel R. Coll 
+Attorney 
 
-Global CIO 
-
-14 February 2018 
-
-  Title: 
-
-  Date: 
-
-VP, General Counsel 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-11 
- 
-
-14 February 2018Exhibit A 
-
-Security and Disaster Recovery Schedule 
-1. 
-
-Elevate Services, Inc ("Supplier") agrees to comply with the following information security 
-policies: 
-
- 
-
-(a) 
-
-(b) 
-
-(c) 
-
-(d) 
-
-(e) 
-
-(f) 
-
-(g) 
-
-(h) 
-
-(i) 
-
-(j) 
-
-(k) 
-
-(l) 
-
-Develop, maintain, and communicate an information security program designed to 
-protect the confidentiality, integrity, and availability of Customer information assets. 
-
-Ensure that appropriate security controls are applied to Customer's information assets. 
-
-Implement Human Resource controls that minimize the risk of theft, fraud, or misuse 
-of Customer information assets. Require annual information security awareness 
-training for employees whose job role may affect Customer information assets. 
-
-Ensure that all facilities providing contracted services possess adequate controls to 
-protect against unauthorized physical access, and that facility design includes 
-protection against fire, flood, earthquakes and other natural or man-made disasters. 
-
-Establish standards and procedures for the provisioning, management, backup, and 
-retirement of Supplier systems involved with storing, transmitting, or processing 
-Customer information assets. 
-
-Implement sufficient monitoring controls to ensure system, security, and operational 
-incidents are detected in a timely manner. Establish formal incident response and 
-investigation procedures that include timely notification to Customer as required by 
-Item 4. 
-
-Protect Customer information assets as appropriate based upon the sensitivity or 
-formal classification. 
-
-Provide access to Customer information assets in a manner consistent with the 
-concept of Least Privilege and based upon business requirement and need-to-know. 
-
-Maintain rigorous internal and external network security controls to protect Customer 
-information assets from data transmission risks. 
-
-Hold any third parties with access to Customer information assets to the same policies 
-and standards as those detailed in this document. 
-
-Develop configuration, change, and release management practices to ensure the 
-environment in which Customer information assets reside is properly governed, 
-administered, and remains compliant over time. 
-
-Design business continuity and disaster recovery practices commensurate with the 
-risk to Customer information assets and in compliance with any particular quantified 
-SLA detailed in #5. 
-
-(m) 
-
-Comply with all legal obligations relevant to the provisioning of services for 
-Customer information assets. 
-
-(n)  Maintain a comprehensive information security management program which protects 
-
-Customer information assets relative to their sensitivity and classification. 
-
-(o) 
-
-Implement event, incident, and problem management processes and controls designed 
-to identify, respond to, and remediate information technology issues within systems 
-engaged in servicing Customer. 
-
- 
-
- 
-
-12 
- 
-
- 
-
-(p) 
-
-Ensure that each Supplier employee or third party complies with relevant legal, 
-regulatory, and professional/ethical obligations in regard to the collection, processing, 
-and protection of personally identifiable information. 
-
-(q)  Maintain an internal audit function that measures Supplier compliance with internal 
-
-policies, standards, and procedures, including compliance with contractual 
-agreements. 
-
-2. 
-
-Supplier grants to Customer the right to periodically audit the Supplier to ensure compliance 
-with these Security and Disaster Recovery Practices. 
-
-(a) 
-
-(b) 
-
-Customer may perform non-intrusive network audits (basic port scans, etc.) randomly 
-and without prior notice to Supplier. 
-
-Upon at least seventy-two (72) hours' notice, Supplier will provide Customer access 
-to perform more intrusive network, application, and physical audits which may be 
-conducted on the Supplier's premises. 
-
-As reasonably requested by Customer, Service Provider will provide documentation of the 
-security posture of the Service(s).  Such documentation shall include, but not be limited to, 
-SAS 70 Type II and SSAE 16 audit reports (or the successors thereto), 
-ISO/PCI/HIPPA/HITECH certifications, and network diagrams.  For hosted software services, 
-documentation will include logical and physical architecture diagrams for hosted software, 
-data flow diagrams, third party application security audit reports, and documentation of secure 
-coding practices/standards. 
-
-Supplier agrees to provide Customer with copies of Supplier's breach notification policy, and 
-incident response plan. In the event of data breach, the Supplier is required to notify Customer 
-within 4hrs by emailing global.helpdesk@bakermckenzie.com or calling one of the following 
-numbers: 
-
-(a) 
-(b) 
-
-U.S. Toll Free: +1 877-861-9800 
-
-North and South America: +1 312-861-1366 
-
-Europe: +44 20-7919-5400 
-
-Asia-Pacific: +63-2-8194778 
-
-(c) 
-(d) 
-Supplier agrees to provide Customer with copies of Supplier's disaster recovery/business 
-continuity plan. If a Supplier is considered to be critical to the business continuity of 
-Customer, Customer may require that the Supplier engage in integrated disaster 
-recovery/continuity testing. 
-
-If shared technology infrastructure is used in the provision of Services to Customer, the 
-Supplier will certify Customer's data is protected/isolated from that of other customers of the 
-Supplier. 
-
-The Supplier agrees that any and all copies of information stored, transported or otherwise 
-processed by the Supplier on behalf of Customer, its business partners, vendors, or clients, 
-including any archival or backup copies will be returned to Customer and/or destroyed in a 
-secure manner upon request or termination of the relationship with Customer. 
-
- 
-
-13 
- 
-
-3. 
-
-4. 
-
-5. 
-
-6. 
-
-7. 
-
- 
- 
- 
- 
-
- 
-
-Exhibit B 
-Data Privacy and Data Security Terms  
-
- 
-
- 
-
-1.  DATA  PRIVACY  AND  DATA  SECURITY.   Supplier  shall  comply  with  the  following 
-
-requirements: 
- 
-1.1  To  the  extent  that  Supplier  obtains  access  to  or  receives  information  relating  to  an 
-identified  or  identifiable  natural  person  (“Personal  Data”)  from  Customer  or  its 
-Affiliates (as defined in the MSA to which this Exhibit B relates) in connection with 
-this Agreement, Supplier agrees that it is acting a data processor (or equivalent term 
-under applicable law) and as such, will only collect, record, store, and use (collectively, 
-“Process,”  “Processed,”  or  “Processing”)  Personal  Data  only  for  the  purpose  of 
-fulfilling  its  obligations  under  this  Agreement,  at  the  direction  of  and  in  accordance 
-with the instructions of Customer, and in accordance with all applicable data privacy 
-and data security laws.  
-
-1.2  Supplier will obtain the prior written approval of Customer to disclose Personal Data to 
-any third party or otherwise allow any third party to access Personal Data; and, in such 
-an event, it shall: (i) enter into a written agreement with the third party that imposes 
-substantially  the  same  privacy  and  security  requirements  on  any  such  third  party  to 
-which Supplier is subject under this Exhibit; (ii) remain responsible for any such third 
-party’s actions with respect to Personal Data; and (iii) provide to Customer, at least 60 
-days before disclosing or allowing access to any such Personal Data, a list detailing the 
-name  and  address  of  all  such  third  parties  to  which  it  discloses  or  allows  access  to 
-Personal  Data,  including  the  locations  of  such  third  party’s  servers  hosting  or 
-Processing Personal Data, in order to allow Customer to evaluate whether supplemental 
-data processing agreements or other controls are needed to protect Personal Data and/or 
-to decide whether to decline approval for subcontracting to any such third parties. 
-
-1.3  Notwithstanding anything to the contrary in this Exhibit, Supplier must promptly notify 
-Customer  of  any  request,  complaint,  claim,  or  other  communication  from  any 
-governmental  authority,  or  other  third  party  for  Personal  Data  (a  “Data  Request”) 
-received  by  it;  only  disclose  any  Personal  Data  in  response  to  such  Data  Request  if 
-required to comply with applicable law, and only after providing  prior written notice to 
-Customer (unless such notice is prohibited by applicable law) to permit them to contest 
-the Data Request. 
- 
-
-1.4  Supplier  will  cooperate  with  and  assist  Customer  in  responding  to  any  inquiries  or 
-
-requests from any relevant regulatory agencies regarding Personal Data. 
- 
-
-1.5  Supplier will submit its data processing facilities, data files, and documentation needed 
-for Processing Personal Data to auditing and/or review by Customer or any independent 
-auditor  or inspection  entity  reasonably  selected by  Customer to ascertain  compliance 
-with  this  Exhibit  upon  the  request  of  Customer,  with  reasonable  notice  and  during 
-normal business hours.  Supplier will cooperate as directed by Customer in any audits 
-conducted  by  or  on  behalf  of  Customer,  Customer’s  affiliates  or  subsidiaries,  and/or 
-any  other  governmental  authorities  with  respect  to  the  Processing  of  Personal  Data. 
-Notwithstanding any time-to-cure provision in this Agreement, Customer has discretion 
-to require Supplier take proper steps to immediately address any security-related control 
-weaknesses identified as a result of such audit.  If Supplier fails to promptly correct any 
-security-related control weaknesses identified as the result of the audit, Customer may 
-instruct  Supplier  to  take  interim  and/or  permanent  measures  necessary  to  protect 
-Personal Data.  
-
- 
-
- 
-
- 
-
- 
-
- 
-
-14 
- 
-
- 
-
-1.6  With  respect  to  Personal  Data  transferred  to  or  received  by  Supplier  under  this 
-Agreement,  Supplier  has  implemented,  and  will  maintain,  a  comprehensive  written 
-information  security  program  (“Information  Security  Program”)  that  includes 
-administrative, technical, and physical safeguards to ensure the confidentiality, security, 
-integrity, and availability of Personal Data, and to protect against unauthorized access, 
-use, disclosure, alteration, or destruction of Personal Data. In particular, the Information 
-Security Program shall include, but not be limited to, the following safeguards where 
-appropriate or necessary to ensure the protection of Personal Data: 
- 
-
-1.6.1  Access Controls – policies, procedures, and physical and technical controls: (i) to 
-limit  physical  access  to  its  information  systems  and  the  facility  or  facilities  in 
-which  they  are  housed  to  properly  authorized  persons;  (ii)  to  ensure  that  all 
-members of its workforce who require access to Personal Data have appropriately 
-controlled  access,  and  to  prevent  those  workforce  members  and  others  who 
-should  not  have  access  from  obtaining  access;  (iii)  to  authenticate  and  permit 
-access  only  to  authorized individuals  and to  prevent  members  of its  workforce 
-from  providing  Personal  Data  or  information  relating  thereto  to  unauthorized 
-individuals; and (iv) to encrypt and decrypt Personal Data where appropriate. 
-
-1.6.2  Security Awareness and Training – a security awareness and training program for 
-all  members  of  Supplier’s  workforce  (including  management),  which  includes 
-training on how to implement and comply with its Information Security Program.  
-1.6.3  Security Incident Procedures – policies and procedures to detect, respond to, and 
-otherwise address Security Incidents (as defined below), including procedures to 
-monitor systems and to detect actual and attempted attacks on or intrusions into 
-Personal Data or information systems relating thereto, and procedures to identify 
-and respond to suspected or known Security Incidents, mitigate harmful effects of 
-Security Incidents, and document Security Incidents and their outcomes.  
-
-1.6.4  Contingency Planning – policies and procedures for responding to an emergency 
-or  other  occurrence  (for  example,  fire,  vandalism,  system  failure,  and  natural 
-disaster)  that  damages  Personal  Data  or  systems  that  contain  Personal  Data, 
-including a data backup plan and a disaster recovery plan. 
-
-1.6.5  Device and Media Controls – policies and procedures that govern the receipt and 
-removal of hardware and electronic media that contain Personal Data into and out 
-of a Supplier facility, and the movement of these items within a Supplier facility, 
-including  policies  and  procedures  to  address  the  final  disposition  of  Personal 
-Data,  and/or  the  hardware  or  electronic  media  on  which  it  is  stored,  and 
-procedures for removal of Personal Data from electronic media before the media 
-are  made  available  for  re-use.    Supplier  shall  ensure  that  no  Personal  Data  is 
-downloaded or otherwise stored on laptops or other portable devices.   
-
-1.6.6  Audit controls – hardware, software, and/or procedural mechanisms that record 
-and  examine  activity  in  information  systems  that  contain  or  use  electronic 
-information,  including  appropriate  logs  and  reports  concerning  these  security 
-requirements and compliance therewith. 
-
-1.6.7  Data Integrity – policies and procedures to ensure the confidentiality, integrity, 
-and  availability  of  Personal  Data  and  protect  it  from  disclosure,  improper 
-alteration, or destruction. 
-
-1.6.8  Storage and Transmission Security – technical security measures to guard against 
-unauthorized access to Personal Data that is being transmitted over an electronic 
-communications  network,  including  a  mechanism  to  encrypt  Personal  Data  in 
-electronic form while in transit and in storage on networks or systems to which 
-unauthorized individuals may have access. 
-
-1.6.9  Assigned  Security  Responsibility  –  Supplier  shall  designate  a  security  official 
-responsible  for  the  development,  implementation,  and  maintenance  of  its 
-Information Security Program.  Supplier shall inform Customer as to the person 
-responsible for security. 
-
- 
-
- 
-
-15 
- 
-
- 
-
-1.6.10  Storage Media - policies and procedures to ensure that prior to any storage media 
-containing Personal Data being assigned, allocated, or reallocated to another user, 
-or  prior  to  such  storage  media  being  permanently  removed  from  a  facility, 
-Supplier  will  irreversibly  delete  such  Personal  Data  from  both  a  physical  and 
-logical perspective, such that the media contains no residual Personal Data, or if 
-necessary,  physically  destroy  such  storage  media  such  that  it  is  impossible  to 
-recover any portion of Personal Data on the media that was destroyed. Supplier 
-shall  maintain an  auditable  program  implementing  the  disposal  and  destruction 
-requirements set forth in this paragraph for all storage media containing Personal 
-Data. 
-
-1.6.11  Testing – Supplier shall regularly test the key controls, systems and procedures of 
-its  Information  Security  Program  to  ensure  that they are  properly  implemented 
-and  effective  in  addressing  the  threats  and  risks  identified.  Tests  should  be 
-conducted or reviewed by independent third parties or staff independent of those 
-that develop or maintain the security programs. 
-
-1.6.12  Adjust the Program – Supplier shall monitor, evaluate, and adjust, as appropriate, 
-the Information Security Program in light of any relevant changes in technology 
-or  industry  security  standards,  the  sensitivity  of  Personal  Data,  internal  or 
-external  threats  to  Supplier  or  Personal  Data,  and  Supplier’s  own  changing 
-business  arrangements,  such  as  mergers  and  acquisitions,  alliances  and  joint 
-ventures, outsourcing arrangements, and changes to information systems. 
- 
-
-1.7  Supplier shall notify Customer immediately in writing in the event that: (i) any Personal 
-Data  is  used,  disclosed,  or  otherwise  Processed  by  Supplier  or  any  third  parties  in 
-violation of this Exhibit, or applicable laws relating to data privacy or data security; (ii) 
-Supplier or any third party should know, knows, discovers, is notified of, or suspects 
-that unauthorized access, acquisition, disclosure, or use of Personal Data has occurred, 
-may have occurred, or could occur; or (iii) there have been any complaints about the 
-Supplier's or any third party's information collection practices as they relate to Personal 
-Data (collectively, “Security Incident”).  Supplier shall cooperate and require any third 
-parties  with  access  to  Personal  Data  under  this  Agreement  to  cooperate  fully  in  the 
-investigation of the Security Incident, and notwithstanding anything to the contrary in 
-this  Agreement,  indemnify  and reimburse  Customer for any  and all  damages,  losses, 
-fees, or costs (whether direct, indirect, special, or consequential) incurred as a result of 
-such Security Incident, and remedy any harm or potential harm caused by such Security 
-Incident.  To the extent that a Security Incident gives rise to a need, in Customer’s sole 
-judgment to: (i) provide notification to public authorities, individuals, or other persons; 
-or (ii) undertake other remedial measures (including, without limitation, addressing data 
-security-related  control  weaknesses,  notice,  credit  monitoring  services,  and  the 
-establishment  of  a  call  center  to  respond  to  inquiries  (each  of  the  foregoing  a 
-“Remedial  Action”),  at  Customer’s  request,  Supplier  shall,  at  Supplier’s  cost, 
-undertake such Remedial Actions.  The timing, content, and manner of effectuating any 
-notices shall be determined by Customer in its sole discretion.  
-
- 
-
- 
-
-1.8  To the extent Supplier has access to, stores, processes, or transmits credit or debit card 
-information,  Supplier  agrees  to  provide  the  evidence  of  compliance  with  PCI  DSS 
-based on the Supplier’s Merchant Level and/or Supplier status: (i) on the date hereof; 
-(ii) annually thereafter during the term of this Agreement, and (iii) upon request from 
-Customer. 
-
-1.9  Subject to any legal requirement to retain Personal Data, in which case such Personal 
-Data will be maintained confidentially, all Personal Data must be: (i) securely returned; 
-and/or (ii) properly and immediately disposed of in a secure manner that is reasonably 
-designed to render the Personal Data permanently unreadable and not reconstructable 
-
- 
-
- 
-
-16 
- 
-
-into a usable format. Any such return and/or disposal shall occur at such time that any 
-such Personal Data is no longer reasonably required to perform the services hereunder, 
-but in any event, no later than upon completion of the relevant services or upon written 
-request of Customer. Upon request, Supplier will certify that all such Personal Data has 
-been returned and/or disposed of in accordance with this Exhibit.  
-
- 
-
-1.10  Supplier shall, upon Customer’s request, promptly execute, and cause any third party to 
-which  it  discloses  Personal  Data  or  allows  access  to  Personal  Data  to  execute, 
-supplemental  data  processing  agreement(s)  with  Customer  or  any  of  its  affiliates  or 
-subsidiaries,  or  take  other  appropriate  steps  to  address  cross-border  transfer  or  other 
-data  privacy  and  data  security  requirements,  if  Customer  concludes,  in  its  sole, 
-reasonable judgment, that such steps are necessary to address applicable data privacy or 
-data  security  laws  concerning  Personal  Data.  Such  supplemental  data  processing 
-agreement(s) may include, without limitation, the Standard Contractual Clauses for the 
-Transfer  of  Personal  Data  to  Processors  established  in  Third  Countries,  dated  5 
-February  2010  (2010/87/EU)  or  similar  terms,  as  well  as  other  data  privacy  or  data 
-security  terms.    If  Supplier  has  a  current  Privacy  Shield  certification  with  the  U.S. 
-Department  of  Commerce,  Supplier  represents  and  warrants  that  its  Privacy  Shield 
-certification covers the Personal Data that Supplier receives or accesses in the United 
-States, and that it will maintain its Privacy Shield certification during the term of this 
-Agreement.  Supplier  shall  provide  written  notification  at  least  90  days  in  advance 
-before it withdraws from or otherwise no longer maintains a current certification to the 
-Privacy  Shield,  at  which  time  Customer  may  require  Supplier  to  adopt  additional 
-protections for Personal Data.   
-
-1.11  Notwithstanding anything to the contrary in this Agreement, Customer may terminate 
-this Agreement immediately, without judicial notice or resolution and without prejudice 
-to any other remedies, in the event that: (i) compliance by the Supplier would put it in 
-breach of its legal obligations; (ii) the Supplier is in material breach of any obligations 
-under this Exhibit; (iii) a governmental authority, tribunal, or court in the countries in 
-which  Customer  or  its  affiliates  or  subsidiaries  operates  finds  that  there  has  been  a 
-breach of any relevant laws in that jurisdiction by virtue of the Supplier’s or Customer’s 
-Processing of Personal Data; or (iv) if either party makes an assignment for the benefit 
-of creditors, becomes subject to a bankruptcy proceeding, is subject to the appointment 
-of a receiver, or admits in writing its inability to pay its debts as they become due. 
-
- 
-
- 
-
-*** 
-
- 
-
-17 
- 
-
- 
-
  
- 
-
- 
 
- 
+2 
 
-
+DocuSign Envelope ID: 13247147-A34A-427C-B8E4-96A3CC04E909
 **************************************************************************************************

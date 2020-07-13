@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Files</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+        html {
+            height: 100%;
+        }
+        body {
+            background-image: linear-gradient(to bottom, #191936, #1f1f43);
+            height: 100vh;
+            margin: 0;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        #interfaceContainer {
+            background-image: linear-gradient(to bottom, #313169, #3d3d83);
+            border-radius: 20px;
+            height: 600px;
+            min-width: 400px;
+            max-width: 600px;
+            width: 50vw;
+            margin: 100px auto;
+            font-family: 'Ubuntu', sans-serif;
+            color: white;
+        }
+        #redactorArguments {
+            padding-top: 10px;
+            padding-left: 30px;
+        }
+        #rcs {
+            text-align: left;
+            font-weight: bold;
+            opacity: .7;
+            font-size: 22px;
+        }
+        .anArg {
+            border: 2px solid white;
+            height: 25px;
+            text-align: center;
+            border-radius: 20px;
+            width: 40%;
+            float: left;
+            padding-top: 5px;
+            margin-right: 5%;
+            margin-bottom: 15px;
+        }
+        .anArg:hover {
+            background-color: white;
+            transition: .5s;
+            color: #191936;
+            cursor: pointer;
+        }
+
+        #uploadDocument {
+            padding-top: 20px;
+            padding-left: 30px;
+            text-align: left;
+            clear: both;
+        }
+        #ud {
+            opacity: .7;
+            font-size: 22px;
+            font-weight: bold;
+        }
+        #loading {
+
+        }
+        #loadGIF {
+            height: 150px;
+            width: 150px;
+            background-position: center;
+            background-size: cover;
+            margin-left: 200px;
+            margin-top: 200px;
+        }
+    </style>
+</head>
+
+<script>
+    let redactors = [];
+</script>
+
+<body>
+    <div id="interfaceWrapper" style="display: block;">
+        <div id="interfaceContainer">
+
+            <div id="redactorArguments" style="display: block;">
+                <p id="rcs">Redaction Choices</p>
+                <div id="listOfArguments">
+
+                    {% for redactor in redactors.keys() %}
+                    <div class="anArg" id="{{ redactor }}">{{ redactor }}</div>
+                    {% endfor %}
+
+                    <script>
+                        $(".anArg").click(function () {
+
+                            if(redactors.includes($(this).attr('id'))) {
+                                $(this).css('background-color', 'transparent');
+                                $(this).css('color', 'white');
+                                const index = redactors.indexOf($(this).attr('id'));
+                                redactors.splice(upload, 1);
+                            }
+                            else {
+                                $(this).css('background-color', 'white');
+                                $(this).css('color', '#191936');
+                                redactors.push($(this).attr('id'));
+                            }
+                        })
+                    </script>
+                </div>
+            </div>
+
+            <div id="uploadDocument" style="display: block;">
+                <p id="ud">Upload Your Document Below</p>
+                <form action="http://localhost:5000/uploader" method="POST" enctype="multipart/form-data">
+                    <input type="file" name="file"/>
+                    <input type="submit" onclick="$('#loading').show();
+                                                  $('#redactorArguments').hide();
+                                                  $('#uploadDocument').hide();"/>
+                </form>
+            </div>
+
+            <div id="loading" style="display:none;">
+                <img id="loadGIF" src="../static/loading.gif"/>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+</body>
+</html>
